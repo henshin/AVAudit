@@ -1,0 +1,90 @@
+kernel32.dll functions
+
+MtaallPostEntryPointCode
+MtaallPreEntryPointCode
+MtaxitThread
+Mtainalize
+MtaeportEvent
+MtaeportEventEx
+MtaeportEventW
+MtaehHandler
+MtatartProcess
+MtawitchToNextThread_WithCheck
+Mtamp32Entry
+Mtamp32FastEnter
+
+ntdll.dll functions
+
+MpDispatchException
+MpGetCurrentThreadHandle
+MpGetCurrentThreadId
+MpGetLastSwitchResult
+MpGetPseudoThreadHandle
+MpGetVStoreFileHandle
+MpHandlerCodePost
+MpIntHandler
+MpIntHandlerParam
+MpIntHandlerReturnAddress
+MpNtdllDatatSection
+MpTimerEvent
+MpTimerEventData
+MpUfsMetadataOp
+MpValidateVFSHandle
+
+=::=::\
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+APPDATA=C:\Documents and Settings\Administrator\Application Data
+CLIENTNAME=Console
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Documents and Settings\Administrator
+NUMBER_OF_PROCESSORS=1
+PATH=C:\WINDOWS;C:\Program Files\Common Files\Microsoft Shared
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+ProgramFiles=C:\Program Files
+TEMP=C:\TEMP
+TMP=C:\TEMP
+SYSTEMDRIVE=C:
+SystemRoot=C:\WINDOWS
+USERPROFILE=C:\Documents and Settings\Administrator
+
+0 [System Process]
+4 System
+356 smss.exe
+608 csrss.exe
+624 winlogon.exe
+676 services.exe
+856 svchost.exe
+1084 svchost.exe
+1268 spoolsv.exe
+680 lsass.exe
+700 kav.exe
+704 avpcc.exe
+708 _avpm.exe
+712 avp32.exe
+716 avp.exe
+720 antivirus.exe
+724 fsav.exe
+728 norton.exe
+732 msmpeng.exe
+736 msmpsvc.exe
+740 mrt.exe
+744 outpost.exe
+1768 explorer.exe
+1796 iexplore.exe
+1800 outlook.exe
+1804 msimn.exe
+1808 firefox.exe
+1812 icq.exe
+1816 yahoomessenger.exe
+1820 msnmsgr.exe
+1824 far.exe
+1828 trillian.exe
+1832 skype.exe
+1836 googletalk.exe
+1840 notepad.exe
+1844 wmplayer.exe
+1848 net.exe
+1852 spawned.exe
+3840 myapp.exe

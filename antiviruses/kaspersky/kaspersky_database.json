@@ -1,0 +1,1022 @@
+{
+  "Backdoor.Win32.FTP.Lana.01.d": {
+    "value": 0,
+    "file": "sample_00DZT.vir"
+  },
+  "Backdoor.Win32.Sbot.12": {
+    "value": 1,
+    "file": "sample_0hgnH.vir"
+  },
+  "Backdoor.Win32.IRCBot.gen": {
+    "value": 2,
+    "file": "sample_0K8og.vir"
+  },
+  "Email-Worm.Win32.Bagle.at": {
+    "value": 3,
+    "file": "sample_19gRD.vir"
+  },
+  "Hoax.Win32.BadJoke.Trembler": {
+    "value": 4,
+    "file": "sample_1MjIX.vir"
+  },
+  "IRC-Worm.Win32.Sahara": {
+    "value": 5,
+    "file": "sample_1EXRz.vir"
+  },
+  "Exploit.Win32.Vecnoit": {
+    "value": 6,
+    "file": "sample_1ThSW.vir"
+  },
+  "Backdoor.Win32.Zaratustra": {
+    "value": 7,
+    "file": "sample_2GAId.vir"
+  },
+  "Backdoor.Win32.Shaggy": {
+    "value": 8,
+    "file": "sample_1u2J7.vir"
+  },
+  "Backdoor.Win32.MoSucker.30.a": {
+    "value": 9,
+    "file": "sample_2KUd9.vir"
+  },
+  "Email-Worm.Win32.Sahay.c": {
+    "value": 10,
+    "file": "sample_2M5j6.vir"
+  },
+  "Backdoor.Win32.Spool": {
+    "value": 11,
+    "file": "sample_2Wj6Q.vir"
+  },
+  "Net-Worm.Win32.Welchia.e": {
+    "value": 12,
+    "file": "sample_2z6Jr.vir"
+  },
+  "Email-Flooder.Win32.ShockMark.17": {
+    "value": 13,
+    "file": "sample_2zDp6.vir"
+  },
+  "UDS:DangerousObject.Multi.Generic": {
+    "value": 14,
+    "file": "sample_2zDp6.vir"
+  },
+  "Backdoor.Win32.Error32": {
+    "value": 15,
+    "file": "sample_3Ar13.vir"
+  },
+  "Backdoor.Win32.Dirtxt": {
+    "value": 16,
+    "file": "sample_3crbv.vir"
+  },
+  "Exploit.Win32.Nuker.ConCon.1.4": {
+    "value": 17,
+    "file": "sample_3SMyj.vir"
+  },
+  "Email-Worm.Win32.Frethem.gen": {
+    "value": 18,
+    "file": "sample_3Uki9.vir"
+  },
+  "Email-Worm.Win32.Vorgon.d": {
+    "value": 19,
+    "file": "sample_3womf.vir"
+  },
+  "Exploit.Win32.WebDav.n": {
+    "value": 20,
+    "file": "sample_3YQZb.vir"
+  },
+  "IRC-Worm.Win32.ClickIt.B": {
+    "value": 21,
+    "file": "sample_4iV8d.vir"
+  },
+  "Backdoor.Win32.Shutall": {
+    "value": 22,
+    "file": "sample_4J2Vx.vir"
+  },
+  "IRC-Worm.DOS.Mabra.b": {
+    "value": 23,
+    "file": "sample_5iHBV.vir"
+  },
+  "Email-Worm.Win32.Mylife.a": {
+    "value": 24,
+    "file": "sample_5FFsT.vir"
+  },
+  "Exploit.Win32.CAN.1999-1317": {
+    "value": 25,
+    "file": "sample_5jFRY.vir"
+  },
+  "Email-Worm.Win32.Avron.c": {
+    "value": 26,
+    "file": "sample_5LdLM.vir"
+  },
+  "P2P-Worm.Win32.SpyBot.gen": {
+    "value": 27,
+    "file": "sample_5KOn5.vir"
+  },
+  "Backdoor.Win32.VB.ap": {
+    "value": 28,
+    "file": "sample_5R55X.vir"
+  },
+  "Backdoor.Win32.DKangel.20": {
+    "value": 29,
+    "file": "sample_5rUDQ.vir"
+  },
+  "Email-Worm.Win32.Urick.a": {
+    "value": 30,
+    "file": "sample_5sV4Z.vir"
+  },
+  "IRC-Worm.Win32.Lucky.d": {
+    "value": 31,
+    "file": "sample_5YjT4.vir"
+  },
+  "Email-Worm.Win32.Predec.f": {
+    "value": 32,
+    "file": "sample_73RWd.vir"
+  },
+  "DoS.Win32.WinGateKill": {
+    "value": 33,
+    "file": "sample_66a8d.vir"
+  },
+  "Backdoor.Win32.Tesk": {
+    "value": 34,
+    "file": "sample_7j7rc.vir"
+  },
+  "Email-Worm.Win32.Yoyks.f": {
+    "value": 35,
+    "file": "sample_7j7t4.vir"
+  },
+  "Backdoor.Win32.Dumador.cp": {
+    "value": 36,
+    "file": "sample_7UAC8.vir"
+  },
+  "Email-Worm.Win32.NetSky.ac": {
+    "value": 37,
+    "file": "sample_85T3K.vir"
+  },
+  "Backdoor.Win32.Sneak": {
+    "value": 38,
+    "file": "sample_88obC.vir"
+  },
+  "Backdoor.Win32.Small.v": {
+    "value": 39,
+    "file": "sample_8raIE.vir"
+  },
+  "Email-Worm.Win32.Batzback.i": {
+    "value": 40,
+    "file": "sample_8eWYh.vir"
+  },
+  "Trojan-Proxy.Win32.Wopla.l": {
+    "value": 41,
+    "file": "sample_8SeY4.vir"
+  },
+  "Email-Worm.Win32.Agist.a": {
+    "value": 42,
+    "file": "sample_9PRC9.vir"
+  },
+  "P2P-Worm.Win32.Delf.b": {
+    "value": 43,
+    "file": "sample_8uXb3.vir"
+  },
+  "Email-Worm.Win32.Energy.b": {
+    "value": 44,
+    "file": "sample_9yluy.vir"
+  },
+  "Email-Worm.Win32.Symten.a": {
+    "value": 45,
+    "file": "sample_9wrTX.vir"
+  },
+  "Backdoor.Win32.VB.cp": {
+    "value": 46,
+    "file": "sample_9z13K.vir"
+  },
+  "IRC-Worm.Win32.Roram.g": {
+    "value": 47,
+    "file": "sample_A933B.vir"
+  },
+  "Backdoor.Win32.Tonerok.a": {
+    "value": 48,
+    "file": "sample_A6Uf2.vir"
+  },
+  "Email-Worm.Win32.Ganter.c": {
+    "value": 49,
+    "file": "sample_aO5O4.vir"
+  },
+  "IRC-Worm.Win32.Flying": {
+    "value": 50,
+    "file": "sample_ate5m.vir"
+  },
+  "Email-Worm.Win32.Mylife.j": {
+    "value": 51,
+    "file": "sample_arXdr.vir"
+  },
+  "Email-Worm.Win32.Ronoper.c": {
+    "value": 52,
+    "file": "sample_atRma.vir"
+  },
+  "Email-Worm.Win32.Ronoper.y": {
+    "value": 53,
+    "file": "sample_b5DkT.vir"
+  },
+  "P2P-Worm.Win32.Duload.b": {
+    "value": 54,
+    "file": "sample_b1WxV.vir"
+  },
+  "IRC-Worm.DOS.Dragon.A": {
+    "value": 55,
+    "file": "sample_bBfAx.vir"
+  },
+  "Email-Worm.Win32.NetSky.p": {
+    "value": 56,
+    "file": "sample_bBQdL.vir"
+  },
+  "Backdoor.Win32.Unexplained": {
+    "value": 57,
+    "file": "sample_be9aZ.vir"
+  },
+  "Email-Worm.Win32.Pikachu": {
+    "value": 58,
+    "file": "sample_BfAqH.vir"
+  },
+  "Backdoor.Win32.Ricta.10": {
+    "value": 59,
+    "file": "sample_BN2yJ.vir"
+  },
+  "Email-Worm.Win32.Ivalid": {
+    "value": 222,
+    "file": "sample_Wbf2U.vir"
+  },
+  "Email-Worm.Win32.Altice": {
+    "value": 61,
+    "file": "sample_Bsglc.vir"
+  },
+  "Email-Worm.Win32.Wohar": {
+    "value": 62,
+    "file": "sample_BWDjk.vir"
+  },
+  "IRC-Worm.Win32.Gillich.c": {
+    "value": 63,
+    "file": "sample_cdiZW.vir"
+  },
+  "Email-Worm.Win32.Lacon": {
+    "value": 64,
+    "file": "sample_bwtsc.vir"
+  },
+  "Constructor.DOS.Virology": {
+    "value": 65,
+    "file": "sample_cEogY.vir"
+  },
+  "Backdoor.Win32.Jacktron.20": {
+    "value": 66,
+    "file": "sample_ct7C1.vir"
+  },
+  "Backdoor.Win32.RC": {
+    "value": 67,
+    "file": "sample_CuBZS.vir"
+  },
+  "Email-Worm.Win32.Gizer.c": {
+    "value": 68,
+    "file": "sample_cvAbG.vir"
+  },
+  "Backdoor.Win32.Evilsock.01": {
+    "value": 69,
+    "file": "sample_D4zJt.vir"
+  },
+  "HackTool.Win32.Auha.20": {
+    "value": 70,
+    "file": "sample_DdfiO.vir"
+  },
+  "Email-Worm.Win32.Redist.a": {
+    "value": 71,
+    "file": "sample_cyW3x.vir"
+  },
+  "Backdoor.Win32.VB.iz": {
+    "value": 72,
+    "file": "sample_DIkZX.vir"
+  },
+  "Email-Flooder.Win32.KagraTool": {
+    "value": 73,
+    "file": "sample_dHdrZ.vir"
+  },
+  "Email-Worm.Win32.Mylife.b": {
+    "value": 74,
+    "file": "sample_DINUt.vir"
+  },
+  "Constructor.DOS.Dosow": {
+    "value": 75,
+    "file": "sample_drGpo.vir"
+  },
+  "Email-Worm.Win32.Gizer.a": {
+    "value": 76,
+    "file": "sample_DiTl0.vir"
+  },
+  "DoS.Win32.PortTerminator": {
+    "value": 77,
+    "file": "sample_dmgLq.vir"
+  },
+  "Email-Worm.Win32.Mydoom.b": {
+    "value": 78,
+    "file": "sample_DRh80.vir"
+  },
+  "Email-Worm.Win32.Axam.e": {
+    "value": 79,
+    "file": "sample_DRKSs.vir"
+  },
+  "Flooder.Win32.TelHack": {
+    "value": 80,
+    "file": "sample_DtVwc.vir"
+  },
+  "Email-Worm.Win32.Predec.i": {
+    "value": 81,
+    "file": "sample_DuH5W.vir"
+  },
+  "Email-Worm.Win32.Mimail.u": {
+    "value": 82,
+    "file": "sample_DUU4g.vir"
+  },
+  "Email-Worm.Win32.Fatcat": {
+    "value": 83,
+    "file": "sample_dUL6j.vir"
+  },
+  "Exploit.Win32.Nuker.Bbe": {
+    "value": 84,
+    "file": "sample_DwBl1.vir"
+  },
+  "Email-Worm.DOS.Kondrik.f": {
+    "value": 85,
+    "file": "sample_E60zh.vir"
+  },
+  "Email-Worm.Win32.Mylife.m": {
+    "value": 86,
+    "file": "sample_E53yi.vir"
+  },
+  "P2P-Worm.Win32.Niklas.g": {
+    "value": 87,
+    "file": "sample_ebhW3.vir"
+  },
+  "IRC-Worm.Win32.Gillich.a": {
+    "value": 88,
+    "file": "sample_EdL1b.vir"
+  },
+  "Email-Worm.Win32.Napsin.a": {
+    "value": 89,
+    "file": "sample_EDhhU.vir"
+  },
+  "Email-Worm.DOS.Kondrik.i": {
+    "value": 90,
+    "file": "sample_EhFNu.vir"
+  },
+  "Hoax.Win32.BadJoke.MewII": {
+    "value": 91,
+    "file": "sample_Ej6TQ.vir"
+  },
+  "Net-Worm.Win32.Opasoft.c": {
+    "value": 92,
+    "file": "sample_EsvbM.vir"
+  },
+  "Email-Worm.Win32.Langex": {
+    "value": 93,
+    "file": "sample_ewzdF.vir"
+  },
+  "Email-Worm.Win32.Thonic.a": {
+    "value": 94,
+    "file": "sample_eyZ3b.vir"
+  },
+  "IM-Flooder.Win32.Nexz": {
+    "value": 95,
+    "file": "sample_fCZ8B.vir"
+  },
+  "Constructor.DOS.Abraxas": {
+    "value": 96,
+    "file": "sample_FeQHy.vir"
+  },
+  "Email-Worm.Win32.Atirus": {
+    "value": 97,
+    "file": "sample_FDuPA.vir"
+  },
+  "IRC-Worm.DOS.Mabra.a": {
+    "value": 98,
+    "file": "sample_FiDQF.vir"
+  },
+  "Email-Worm.Win32.Avron.a": {
+    "value": 99,
+    "file": "sample_FJnsb.vir"
+  },
+  "Email-Worm.Win32.Zircon.a": {
+    "value": 100,
+    "file": "sample_Fjy18.vir"
+  },
+  "Net-Worm.Win32.Welchia.g": {
+    "value": 101,
+    "file": "sample_fUh5i.vir"
+  },
+  "Constructor.DOS.Nuke": {
+    "value": 102,
+    "file": "sample_fZSaM.vir"
+  },
+  "Email-Worm.Win32.Redesi.b": {
+    "value": 103,
+    "file": "sample_fzLYg.vir"
+  },
+  "Email-Worm.Win32.NetSup.a": {
+    "value": 104,
+    "file": "sample_GHgto.vir"
+  },
+  "Trojan-Dropper.Win32.Small.ix": {
+    "value": 105,
+    "file": "sample_GHXIh.vir"
+  },
+  "Email-Worm.Win32.Roron.4997": {
+    "value": 106,
+    "file": "sample_gMkaK.vir"
+  },
+  "P2P-Worm.Win32.Niklas.p": {
+    "value": 107,
+    "file": "sample_gmuNT.vir"
+  },
+  "Backdoor.Win32.Sinf": {
+    "value": 108,
+    "file": "sample_gTnPX.vir"
+  },
+  "IM-Flooder.Win32.VB.ax": {
+    "value": 109,
+    "file": "sample_GtSQ3.vir"
+  },
+  "Backdoor.Win32.NetSlayer": {
+    "value": 110,
+    "file": "sample_gxODW.vir"
+  },
+  "Email-Worm.Win32.Secet": {
+    "value": 111,
+    "file": "sample_h4j0h.vir"
+  },
+  "Backdoor.Win32.Small.rv": {
+    "value": 112,
+    "file": "sample_H9MxT.vir"
+  },
+  "Backdoor.Win32.DTR.144.k": {
+    "value": 113,
+    "file": "sample_hb8zI.vir"
+  },
+  "Email-Worm.Win32.Radix.a": {
+    "value": 114,
+    "file": "sample_hhbcx.vir"
+  },
+  "Backdoor.Win32.Helios.24": {
+    "value": 115,
+    "file": "sample_HiEbf.vir"
+  },
+  "Exploit.Win32.Nuker.Snuke": {
+    "value": 116,
+    "file": "sample_HPVzI.vir"
+  },
+  "Email-Worm.Win32.Nihilit.i": {
+    "value": 117,
+    "file": "sample_HQZsc.vir"
+  },
+  "Hoax.Win32.BadJoke.Jkozd": {
+    "value": 118,
+    "file": "sample_hztXH.vir"
+  },
+  "Email-Worm.Win32.Mimail.s": {
+    "value": 119,
+    "file": "sample_HR1HT.vir"
+  },
+  "Exploit.Win32.Nuker.Newker.013": {
+    "value": 120,
+    "file": "sample_iEuie.vir"
+  },
+  "P2P-Worm.Win32.Primat.a": {
+    "value": 121,
+    "file": "sample_Ih5z6.vir"
+  },
+  "Exploit.Win32.Nuker.Lockup.10": {
+    "value": 122,
+    "file": "sample_IFbDR.vir"
+  },
+  "Backdoor.Win32.Remod.10": {
+    "value": 123,
+    "file": "sample_iI5eV.vir"
+  },
+  "Email-Worm.VBS.Guorm.a": {
+    "value": 124,
+    "file": "sample_IKdgE.vir"
+  },
+  "Net-Worm.Win32.Welchia.h": {
+    "value": 125,
+    "file": "sample_ILsWe.vir"
+  },
+  "Email-Worm.Win32.Maldal.k": {
+    "value": 126,
+    "file": "sample_iuym3.vir"
+  },
+  "Backdoor.Win32.Symes": {
+    "value": 127,
+    "file": "sample_iXnmG.vir"
+  },
+  "Email-Worm.MSIL.Litar": {
+    "value": 128,
+    "file": "sample_IzWy2.vir"
+  },
+  "Email-Worm.DOS.Youdgos.b": {
+    "value": 129,
+    "file": "sample_jbUTD.vir"
+  },
+  "Backdoor.Win32.Longvi": {
+    "value": 130,
+    "file": "sample_JDxV2.vir"
+  },
+  "Email-Worm.Win32.Cult.b": {
+    "value": 131,
+    "file": "sample_jgF7U.vir"
+  },
+  "P2P-Worm.Win32.Niklas.j": {
+    "value": 132,
+    "file": "sample_JnTnV.vir"
+  },
+  "Email-Worm.Win32.Vorgon.f": {
+    "value": 133,
+    "file": "sample_JQ3KC.vir"
+  },
+  "Backdoor.Win32.Delf.x": {
+    "value": 134,
+    "file": "sample_jVQzM.vir"
+  },
+  "Email-Worm.Win32.Alcaul.i": {
+    "value": 135,
+    "file": "sample_JWBMy.vir"
+  },
+  "IRC-Worm.DOS.Allegro.a": {
+    "value": 136,
+    "file": "sample_KCctf.vir"
+  },
+  "IRC-Worm.DOS.Lazirc.e": {
+    "value": 137,
+    "file": "sample_K7Qmo.vir"
+  },
+  "IRC-Worm.Win32.ClickIt.C": {
+    "value": 138,
+    "file": "sample_KjHC1.vir"
+  },
+  "HackTool.Win32.Mydoomer.b": {
+    "value": 139,
+    "file": "sample_kmlCa.vir"
+  },
+  "Email-Worm.Win32.Bagle.af": {
+    "value": 140,
+    "file": "sample_KRSA6.vir"
+  },
+  "Flooder.Win32.GichtyChatFlood.10": {
+    "value": 141,
+    "file": "sample_Kk4cy.vir"
+  },
+  "Backdoor.Win32.Netraider": {
+    "value": 142,
+    "file": "sample_kSAZr.vir"
+  },
+  "Exploit.Win32.Nuker.Pof": {
+    "value": 143,
+    "file": "sample_kSyn0.vir"
+  },
+  "Backdoor.Win32.Rorex.a": {
+    "value": 144,
+    "file": "sample_kX8hn.vir"
+  },
+  "Flooder.Win32.Gewse.b": {
+    "value": 145,
+    "file": "sample_l1At3.vir"
+  },
+  "Email-Worm.Win32.Urick.d": {
+    "value": 146,
+    "file": "sample_L3Y3i.vir"
+  },
+  "Constructor.DOS.Abcd": {
+    "value": 147,
+    "file": "sample_lAitA.vir"
+  },
+  "Email-Worm.Win32.Anap.b": {
+    "value": 148,
+    "file": "sample_LFvpZ.vir"
+  },
+  "Email-Worm.Win32.Urbe.a": {
+    "value": 149,
+    "file": "sample_lY8qt.vir"
+  },
+  "IM-Flooder.Win32.IcqCrash": {
+    "value": 150,
+    "file": "sample_lH0Va.vir"
+  },
+  "Backdoor.Win32.Netbus.Ripper": {
+    "value": 151,
+    "file": "sample_LYrfj.vir"
+  },
+  "Net-Worm.Win32.Opasoft.a": {
+    "value": 152,
+    "file": "sample_m7S2u.vir"
+  },
+  "P2P-Worm.Win32.SdDrop.e": {
+    "value": 153,
+    "file": "sample_McGjd.vir"
+  },
+  "Backdoor.Win32.Sepro.b": {
+    "value": 154,
+    "file": "sample_Mdozi.vir"
+  },
+  "Backdoor.Win32.Hackboy.10": {
+    "value": 155,
+    "file": "sample_mDklU.vir"
+  },
+  "Email-Worm.Win32.Mylife.e": {
+    "value": 156,
+    "file": "sample_MDsy7.vir"
+  },
+  "Constructor.DOS.IPVCK": {
+    "value": 157,
+    "file": "sample_mopvy.vir"
+  },
+  "Email-Worm.Win32.Gokar": {
+    "value": 158,
+    "file": "sample_mRXgg.vir"
+  },
+  "Backdoor.Win32.Xposure": {
+    "value": 159,
+    "file": "sample_MsRN5.vir"
+  },
+  "Email-Worm.Win32.Predec.c": {
+    "value": 160,
+    "file": "sample_mvLyQ.vir"
+  },
+  "Email-Worm.Win32.Mimail.m": {
+    "value": 161,
+    "file": "sample_mTHfc.vir"
+  },
+  "Backdoor.Win32.Uploader.10": {
+    "value": 162,
+    "file": "sample_mvLZN.vir"
+  },
+  "Email-Worm.Win32.Azag.a": {
+    "value": 163,
+    "file": "sample_mY8pv.vir"
+  },
+  "IRC-Worm.Win32.Testworm": {
+    "value": 164,
+    "file": "sample_n5gEn.vir"
+  },
+  "Trojan.Win32.Reconyc.fjgw": {
+    "value": 165,
+    "file": "sample_N9h73.vir"
+  },
+  "Email-Worm.Win32.Taripox.a": {
+    "value": 166,
+    "file": "sample_nHQ7x.vir"
+  },
+  "P2P-Worm.Win32.Mua.b": {
+    "value": 167,
+    "file": "sample_nB9uT.vir"
+  },
+  "IRC-Worm.DOS.Claw.2513": {
+    "value": 168,
+    "file": "sample_oARu8.vir"
+  },
+  "Backdoor.Win32.SdBot.d": {
+    "value": 169,
+    "file": "sample_nJHCK.vir"
+  },
+  "Backdoor.Win32.Guptachar.20": {
+    "value": 170,
+    "file": "sample_nrO9X.vir"
+  },
+  "Email-Worm.Win32.Hybris.dropper": {
+    "value": 171,
+    "file": "sample_Oe11f.vir"
+  },
+  "DoS.Win32.IIS": {
+    "value": 172,
+    "file": "sample_oE83y.vir"
+  },
+  "HackTool.Win32.Auha.11": {
+    "value": 173,
+    "file": "sample_oDKFz.vir"
+  },
+  "Flooder.Win32.Pestil.20": {
+    "value": 174,
+    "file": "sample_oioR5.vir"
+  },
+  "Backdoor.Win32.Expir": {
+    "value": 175,
+    "file": "sample_OhTfe.vir"
+  },
+  "Backdoor.Win32.Rirc.b": {
+    "value": 176,
+    "file": "sample_ogwxr.vir"
+  },
+  "Email-Worm.Win32.Lentin.g": {
+    "value": 177,
+    "file": "sample_OpwbI.vir"
+  },
+  "Exploit.Win32.PrinterOverflow.f": {
+    "value": 178,
+    "file": "sample_oQw2r.vir"
+  },
+  "Exploit.Win32.UtilMan.a": {
+    "value": 179,
+    "file": "sample_OThbA.vir"
+  },
+  "Email-Worm.DOS.Kondrik.l": {
+    "value": 180,
+    "file": "sample_pAReB.vir"
+  },
+  "Email-Flooder.Win32.Hirs.25": {
+    "value": 181,
+    "file": "sample_OZVg6.vir"
+  },
+  "Backdoor.Win32.Hobbit.01": {
+    "value": 182,
+    "file": "sample_OXtgo.vir"
+  },
+  "Exploit.Win32.DownIMS": {
+    "value": 183,
+    "file": "sample_pmXrx.vir"
+  },
+  "Flooder.Win32.Quake.a": {
+    "value": 184,
+    "file": "sample_pUt1Z.vir"
+  },
+  "Email-Worm.Win32.Myparty.b": {
+    "value": 185,
+    "file": "sample_PVaBm.vir"
+  },
+  "Backdoor.Win32.Pipes": {
+    "value": 186,
+    "file": "sample_Qadzg.vir"
+  },
+  "Hoax.Win32.BadJoke.Pelotas": {
+    "value": 187,
+    "file": "sample_PY2T5.vir"
+  },
+  "Email-Worm.Win32.Redist.b": {
+    "value": 188,
+    "file": "sample_QARHi.vir"
+  },
+  "IRC-Worm.Win32.Roram.f": {
+    "value": 189,
+    "file": "sample_QH1kU.vir"
+  },
+  "Email-Worm.Win32.Stopin.c": {
+    "value": 190,
+    "file": "sample_qEZod.vir"
+  },
+  "Email-Worm.Win32.Sivel.a": {
+    "value": 191,
+    "file": "sample_QKkJu.vir"
+  },
+  "Email-Worm.Win32.Repah.b": {
+    "value": 192,
+    "file": "sample_Qoakc.vir"
+  },
+  "Backdoor.Win32.Radix": {
+    "value": 193,
+    "file": "sample_QvUY9.vir"
+  },
+  "Backdoor.Win32.VB.hv": {
+    "value": 194,
+    "file": "sample_r5E4w.vir"
+  },
+  "Constructor.DOS.Flamal": {
+    "value": 195,
+    "file": "sample_Rcczn.vir"
+  },
+  "Backdoor.Win32.Sean": {
+    "value": 196,
+    "file": "sample_rACAL.vir"
+  },
+  "Exploit.Win32.ShellCode.m": {
+    "value": 197,
+    "file": "sample_RQWkM.vir"
+  },
+  "IRC-Worm.Win32.Buffy.a": {
+    "value": 198,
+    "file": "sample_S31bk.vir"
+  },
+  "DoS.Win32.Opdos": {
+    "value": 199,
+    "file": "sample_RRlX5.vir"
+  },
+  "Backdoor.Win32.Wanirc": {
+    "value": 200,
+    "file": "sample_sUTnw.vir"
+  },
+  "Email-Worm.Win32.Nodoom.a": {
+    "value": 201,
+    "file": "sample_smooX.vir"
+  },
+  "Email-Worm.Win32.Byzer.b": {
+    "value": 202,
+    "file": "sample_SN5zz.vir"
+  },
+  "Email-Worm.Win32.Rous.d": {
+    "value": 203,
+    "file": "sample_TCT4l.vir"
+  },
+  "Backdoor.Win32.NetSpy.106": {
+    "value": 204,
+    "file": "sample_T0gcs.vir"
+  },
+  "P2P-Worm.Win32.Spear.a": {
+    "value": 205,
+    "file": "sample_t8SGa.vir"
+  },
+  "IRC-Worm.DOS.Dreamirc.g": {
+    "value": 206,
+    "file": "sample_tg4cP.vir"
+  },
+  "DoS.Win32.ShotGun": {
+    "value": 207,
+    "file": "sample_Tpyug.vir"
+  },
+  "Backdoor.Win32.FoxEyes.30": {
+    "value": 208,
+    "file": "sample_TgiQM.vir"
+  },
+  "Backdoor.Win32.MDM": {
+    "value": 209,
+    "file": "sample_TYEIz.vir"
+  },
+  "P2P-Worm.Win32.Small.f": {
+    "value": 210,
+    "file": "sample_TziLe.vir"
+  },
+  "Email-Worm.Win32.NetSky.ad": {
+    "value": 211,
+    "file": "sample_UKSth.vir"
+  },
+  "Email-Worm.Win32.Yoyks.c": {
+    "value": 212,
+    "file": "sample_UOT31.vir"
+  },
+  "Email-Worm.Win32.Wabbin": {
+    "value": 213,
+    "file": "sample_UL2oI.vir"
+  },
+  "Backdoor.Win32.TheRipper.12": {
+    "value": 214,
+    "file": "sample_UYW7X.vir"
+  },
+  "Email-Worm.Win32.Bagle.ah": {
+    "value": 215,
+    "file": "sample_v6Rqt.vir"
+  },
+  "Flooder.Win32.Quake.b": {
+    "value": 216,
+    "file": "sample_va3jJ.vir"
+  },
+  "Backdoor.Win32.Rosyba.a": {
+    "value": 217,
+    "file": "sample_VD9YW.vir"
+  },
+  "Email-Worm.Win32.Predec.b": {
+    "value": 218,
+    "file": "sample_VDJZa.vir"
+  },
+  "Email-Worm.Win32.Mylife.i": {
+    "value": 219,
+    "file": "sample_VE8JZ.vir"
+  },
+  "Backdoor.Win32.Prorat.12": {
+    "value": 220,
+    "file": "sample_VeNkN.vir"
+  },
+  "Exploit.Win32.Nuker.Hunuker": {
+    "value": 221,
+    "file": "sample_vf4AZ.vir"
+  },
+  "Email-Worm.VBS.Evan": {
+    "value": 223,
+    "file": "sample_vUjQv.vir"
+  },
+  "IRC-Worm.VBS.Overnuke.b": {
+    "value": 224,
+    "file": "sample_w1YqO.vir"
+  },
+  "Email-Worm.Win32.Mimail.g": {
+    "value": 225,
+    "file": "sample_wdPyK.vir"
+  },
+  "Backdoor.Win32.UltimateRAT": {
+    "value": 226,
+    "file": "sample_Wf9At.vir"
+  },
+  "IRC-Worm.Win32.Roram.c": {
+    "value": 227,
+    "file": "sample_WJ2z4.vir"
+  },
+  "Email-Worm.Win32.FreeTrip.c": {
+    "value": 228,
+    "file": "sample_wJPoz.vir"
+  },
+  "Backdoor.Win32.Singu.j": {
+    "value": 229,
+    "file": "sample_WTdIr.vir"
+  },
+  "Email-Worm.Win32.Heyya.b": {
+    "value": 230,
+    "file": "sample_WtXRP.vir"
+  },
+  "Backdoor.Win32.Zomby.d": {
+    "value": 231,
+    "file": "sample_wURJp.vir"
+  },
+  "DoS.Win32.CrazyWorld": {
+    "value": 232,
+    "file": "sample_x6Hxo.vir"
+  },
+  "Backdoor.Win32.VB.bpd": {
+    "value": 233,
+    "file": "sample_X2Zgt.vir"
+  },
+  "Backdoor.Win32.Small.gk": {
+    "value": 234,
+    "file": "sample_x1WU5.vir"
+  },
+  "Constructor.DOS.Cregam": {
+    "value": 235,
+    "file": "sample_x6Mbu.vir"
+  },
+  "Email-Worm.Win32.Benatic.c": {
+    "value": 236,
+    "file": "sample_XGVsa.vir"
+  },
+  "Backdoor.Win32.Hanuman.b": {
+    "value": 237,
+    "file": "sample_XjGBV.vir"
+  },
+  "Email-Worm.Win32.Desos.b": {
+    "value": 238,
+    "file": "sample_Xkl66.vir"
+  },
+  "IRC-Worm.DOS.Trash.a": {
+    "value": 239,
+    "file": "sample_xPIF7.vir"
+  },
+  "Backdoor.Win32.GTbot.c": {
+    "value": 240,
+    "file": "sample_XpTu5.vir"
+  },
+  "Email-Worm.Win32.Yoyks.e": {
+    "value": 241,
+    "file": "sample_XUPpv.vir"
+  },
+  "SMS-Flooder.Win32.Bomber.c": {
+    "value": 242,
+    "file": "sample_xXqVd.vir"
+  },
+  "Backdoor.Win32.Orion": {
+    "value": 243,
+    "file": "sample_XZb2v.vir"
+  },
+  "Email-Worm.Win32.Tanger": {
+    "value": 244,
+    "file": "sample_Y16tE.vir"
+  },
+  "Backdoor.Win32.Nethief.s": {
+    "value": 245,
+    "file": "sample_Y9CnP.vir"
+  },
+  "Email-Worm.Win32.NetSky.ges": {
+    "value": 246,
+    "file": "sample_yF720.vir"
+  },
+  "Email-Worm.Win32.NetSky.r": {
+    "value": 247,
+    "file": "sample_YKxMw.vir"
+  },
+  "Email-Worm.Win32.Delf.d": {
+    "value": 248,
+    "file": "sample_Z45IS.vir"
+  },
+  "IRC-Worm.Win32.Taxif.d": {
+    "value": 249,
+    "file": "sample_YnR3B.vir"
+  },
+  "Backdoor.Win32.DriveTheBus.10": {
+    "value": 250,
+    "file": "sample_ZaJhw.vir"
+  },
+  "Backdoor.Win32.EvilGoat.a": {
+    "value": 251,
+    "file": "sample_zDwZQ.vir"
+  },
+  "IRC-Worm.Win32.Taxif.b": {
+    "value": 252,
+    "file": "sample_zfaFW.vir"
+  },
+  "Backdoor.Win32.Lyusane": {
+    "value": 253,
+    "file": "sample_ZfjZR.vir"
+  },
+  "Email-Worm.Win32.NetSky.y": {
+    "value": 254,
+    "file": "sample_ZrJ0p.vir"
+  },
+  "Backdoor.Win32.Helios.12.b": {
+    "value": 255,
+    "file": "sample_zHqmf.vir"
+  }
+}

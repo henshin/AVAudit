@@ -1,0 +1,2 @@
+rem this batch file filters malware that is detected by windows emulator
+for /f "usebackq delims=|" %%f in (`dir /b "C:\Users\caive\samples\all_samples"`) do add_rsrc C:\Users\caive\source\repos\dropper\Release\dropper.exe %%f 102 && C:\PROGRA~1\WINDOW~1\MpCmdRun.exe -Scan -DisableRemediation -ScanType 3 -File C:\Users\caive\source\repos\dropper\Release\dropper.exe >> raw.txt

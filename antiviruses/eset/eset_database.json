@@ -1,0 +1,764 @@
+{
+  "Win32/Wisdoor trojan": {
+    "value": 0
+  },
+  "Win32/NetSlayer.10 trojan": {
+    "value": 1
+  },
+  "Win32/Opaserv worm": {
+    "value": 2
+  },
+  "Win32/Mydoom.R worm": {
+    "value": 3
+  },
+  "Win32/Frethem.A worm": {
+    "value": 4
+  },
+  "Win32/Nachi.G worm": {
+    "value": 5
+  },
+  "Win32/Zafi.B worm": {
+    "value": 6
+  },
+  "Win32/Lolol.E worm": {
+    "value": 7
+  },
+  "Win32/Kipis.A worm": {
+    "value": 8
+  },
+  "Win32/VB.NKW trojan": {
+    "value": 9
+  },
+  "Win32/HackTool.Auha.20 trojan": {
+    "value": 10
+  },
+  "NewHeur_VB_Backdoor.35 trojan": {
+    "value": 11
+  },
+  "Win32/HackTool.Auha.24 trojan": {
+    "value": 12
+  },
+  "Win32/Feardoor.NAA trojan": {
+    "value": 13
+  },
+  "Win32/HackTool.Auha.30.A trojan": {
+    "value": 14
+  },
+  "Win32/Roron.A worm": {
+    "value": 15
+  },
+  "Win32/SilverFTP.A trojan": {
+    "value": 16
+  },
+  "Win32/Spear.B worm": {
+    "value": 17
+  },
+  "Win32/TrojanDropper.Joiner.NAK trojan": {
+    "value": 18
+  },
+  "Win32/Revocer.B worm": {
+    "value": 19
+  },
+  "Win32/Tiny.NAA trojan": {
+    "value": 20
+  },
+  "Win32/Bagle.AQ worm": {
+    "value": 21
+  },
+  "Win32/Wohar.A worm": {
+    "value": 22
+  },
+  "Win32/Spy.Tofger.NAE trojan": {
+    "value": 23
+  },
+  "Win32/SpyBot.APV worm": {
+    "value": 24
+  },
+  "Win32/Remscan trojan": {
+    "value": 25
+  },
+  "Generik.IJKNTTM trojan": {
+    "value": 26
+  },
+  "Win32/Netsky.C worm": {
+    "value": 27
+  },
+  "Win32/Bagle.AL worm": {
+    "value": 28
+  },
+  "Win32/Netsky.AB worm": {
+    "value": 29
+  },
+  "Win32/MScr.N worm": {
+    "value": 30
+  },
+  "NewHeur_VB_Backdoor.2 trojan": {
+    "value": 31
+  },
+  "Win32/Mydoom.A trojan": {
+    "value": 32
+  },
+  "IIS/Exploit.Hack.B trojan": {
+    "value": 33
+  },
+  "Win32/HackTool.Auha.22 trojan": {
+    "value": 34
+  },
+  "Win32/PSW.Legendmir.KM trojan": {
+    "value": 35
+  },
+  "Win32/Solvina.A worm": {
+    "value": 36
+  },
+  "Win32/Zenmaster.102 trojan": {
+    "value": 37
+  },
+  "Win32/Exploit.IE.Fearless trojan": {
+    "value": 38
+  },
+  "Win32/Netsky.E worm": {
+    "value": 39
+  },
+  "Win32/Sober.D worm": {
+    "value": 40
+  },
+  "Win32/Spear.P worm": {
+    "value": 41
+  },
+  "Win32/Flooder.Quake.B trojan": {
+    "value": 42
+  },
+  "Win32/Stopin.D worm": {
+    "value": 43
+  },
+  "Win32/Hackarmy.A trojan": {
+    "value": 44
+  },
+  "Win32/Mydoom worm": {
+    "value": 45
+  },
+  "Win32/Uploader.1_0 trojan": {
+    "value": 46
+  },
+  "Win32/Radix trojan": {
+    "value": 47
+  },
+  "Win32/Qizy.A worm": {
+    "value": 48
+  },
+  "Win32/Myparty.A worm": {
+    "value": 49
+  },
+  "Win32/VB.PE trojan": {
+    "value": 50
+  },
+  "Generik.CBMFZDN trojan": {
+    "value": 51
+  },
+  "IRC/Kwbot.13 trojan": {
+    "value": 52
+  },
+  "Win32/Espion.10 trojan": {
+    "value": 53
+  },
+  "Win32/KillAV.BR trojan": {
+    "value": 54
+  },
+  "Win32/Opex.A worm": {
+    "value": 55
+  },
+  "IRC/Poopoo.B worm": {
+    "value": 56
+  },
+  "Win32/SpyBot.APW worm": {
+    "value": 57
+  },
+  "Win32/Lirva.F worm": {
+    "value": 58
+  },
+  "NewHeur_VB_Trojan.32 trojan": {
+    "value": 59
+  },
+  "Win32/Park.A worm": {
+    "value": 60
+  },
+  "Win32/Maldal.NAB worm": {
+    "value": 61
+  },
+  "Win32/Dabber.A worm": {
+    "value": 62
+  },
+  "Win32/EggDrop trojan": {
+    "value": 63
+  },
+  "Win32/IRC.SdBot.D trojan": {
+    "value": 64
+  },
+  "Win32/Knight trojan": {
+    "value": 65
+  },
+  "Win32/Atak.A worm": {
+    "value": 66
+  },
+  "Win32/Taripox.A.unp worm": {
+    "value": 67
+  },
+  "Win32/Small.BF trojan": {
+    "value": 68
+  },
+  "Win32/Agent.QPR trojan": {
+    "value": 69
+  },
+  "Win32/Kryptik.ASO trojan": {
+    "value": 70
+  },
+  "Win32/Error32 trojan": {
+    "value": 71
+  },
+  "Win32/Bagle.M worm": {
+    "value": 72
+  },
+  "Win32/BadJoke.AZ trojan": {
+    "value": 73
+  },
+  "Win32/Mimail.C worm": {
+    "value": 74
+  },
+  "NewHeur_VB_Trojan.26 trojan": {
+    "value": 75
+  },
+  "Win32/Portless.NAD trojan": {
+    "value": 76
+  },
+  "Win32/Evilsock.D trojan": {
+    "value": 77
+  },
+  "Win32/Delf.OQB trojan": {
+    "value": 78
+  },
+  "Win32/Netsky.Y worm": {
+    "value": 79
+  },
+  "Win32/MScr.A worm": {
+    "value": 80
+  },
+  "Win32/Netsky.F worm": {
+    "value": 81
+  },
+  "Win32/VB.OPG trojan": {
+    "value": 82
+  },
+  "Win32/SpyBot.g4 worm": {
+    "value": 83
+  },
+  "Win32/DTR.16.C trojan": {
+    "value": 84
+  },
+  "Generik.MHXNSLO trojan": {
+    "value": 85
+  },
+  "Win32/Loony.NAP trojan": {
+    "value": 86
+  },
+  "Win32/Netsky.AN worm": {
+    "value": 87
+  },
+  "Win32/Agent.NDN virus": {
+    "value": 88
+  },
+  "Win32/Mimail.E worm": {
+    "value": 89
+  },
+  "Win32/Fatcat.A.unp worm": {
+    "value": 90
+  },
+  "Win32/Bare.F worm": {
+    "value": 91
+  },
+  "Win32/HackTool.Auha.11 trojan": {
+    "value": 92
+  },
+  "Win32/Maldal.K worm": {
+    "value": 93
+  },
+  "Win32/Loony.D1 trojan": {
+    "value": 94
+  },
+  "Win32/Netsky.O worm": {
+    "value": 95
+  },
+  "Win32/Doomjuice.B worm": {
+    "value": 96
+  },
+  "NewHeur_VB_Backdoor.38 trojan": {
+    "value": 97
+  },
+  "NewHeur_VB_StartPage.5 trojan": {
+    "value": 98
+  },
+  "Win32/Delf.LE trojan": {
+    "value": 99
+  },
+  "Win32/Nimda.A worm": {
+    "value": 100
+  },
+  "Win32/Bagle.gen worm": {
+    "value": 101
+  },
+  "Win32/Gluber.A worm": {
+    "value": 102
+  },
+  "Win32/Litmus.201.Server trojan": {
+    "value": 103
+  },
+  "Win32/HackTool.Auha.30.B trojan": {
+    "value": 104
+  },
+  "NewHeur_VB_Trojan.22 trojan": {
+    "value": 105
+  },
+  "Win32/HackTool.Auha.21 trojan": {
+    "value": 106
+  },
+  "Win32/Anarch.A worm": {
+    "value": 107
+  },
+  "Generik.JDJVAHK trojan": {
+    "value": 108
+  },
+  "Win32/Netsky.R worm": {
+    "value": 109
+  },
+  "Win32/TDS.AB trojan": {
+    "value": 110
+  },
+  "Win32/Roach.A worm": {
+    "value": 111
+  },
+  "Win32/Spear.Q worm": {
+    "value": 112
+  },
+  "Win32/Elfrit.12 trojan": {
+    "value": 113
+  },
+  "Win32/Opaserv.AC worm": {
+    "value": 114
+  },
+  "Win32/Raleka.J worm": {
+    "value": 115
+  },
+  "Win32/STD.F worm": {
+    "value": 116
+  },
+  "Win32/Urbe.C worm": {
+    "value": 117
+  },
+  "Generik.BLLVFSW trojan": {
+    "value": 118
+  },
+  "Win32/TDS.AA trojan": {
+    "value": 119
+  },
+  "Win32/Recub.A trojan": {
+    "value": 120
+  },
+  "Win32/Jacktron.20 trojan": {
+    "value": 121
+  },
+  "Win32/Bagle.Q worm": {
+    "value": 122
+  },
+  "Win32/Netsup.A worm": {
+    "value": 123
+  },
+  "Win32/DoS.SynFlood.A trojan": {
+    "value": 124
+  },
+  "Win32/Mydoom.E worm": {
+    "value": 125
+  },
+  "Win32/VB.CF worm": {
+    "value": 126
+  },
+  "NewHeur_VB_Backdoor.41 trojan": {
+    "value": 127
+  },
+  "Win32/Exploit.DCom.NAF trojan": {
+    "value": 128
+  },
+  "Win32/VB.KQ trojan": {
+    "value": 129
+  },
+  "Win32/Spy.Dks trojan": {
+    "value": 130
+  },
+  "Win32/VB.NAE worm": {
+    "value": 131
+  },
+  "Win32/Nethief.NAG trojan": {
+    "value": 132
+  },
+  "Win32/Bagle.S worm": {
+    "value": 133
+  },
+  "Win32/Gizer.D worm": {
+    "value": 134
+  },
+  "Win32/HackTool.Auha.23 trojan": {
+    "value": 135
+  },
+  "Win32/TrojanDownloader.Small.ZL trojan": {
+    "value": 136
+  },
+  "NewHeur_VB_Trojan.31 trojan": {
+    "value": 137
+  },
+  "Win32/SpyBot.TV worm": {
+    "value": 138
+  },
+  "Win32/Small.NCS worm": {
+    "value": 139
+  },
+  "NewHeur_VB_Trojan.15 trojan": {
+    "value": 140
+  },
+  "Win32/Flooder.ICQ.ICQBomber.15 trojan": {
+    "value": 141
+  },
+  "Win32/Netsky.D worm": {
+    "value": 142
+  },
+  "Win32/Spreter.B worm": {
+    "value": 143
+  },
+  "Win32/Kryptik.FD trojan": {
+    "value": 144
+  },
+  "Win32/Haxdoor.C trojan": {
+    "value": 145
+  },
+  "Win32/VB.MY trojan": {
+    "value": 146
+  },
+  "IRC/SdBot.BBJ trojan": {
+    "value": 147
+  },
+  "Win32/Unis.A1 worm": {
+    "value": 148
+  },
+  "Win32/Scatter.A worm": {
+    "value": 149
+  },
+  "NewHeur_VB_Trojan.37 trojan": {
+    "value": 150
+  },
+  "Win32/Mydoom.Q worm": {
+    "value": 151
+  },
+  "Win32/Helios.NAB trojan": {
+    "value": 152
+  },
+  "Win32/TrojanDropper.Small.NID trojan": {
+    "value": 153
+  },
+  "Win32/Yaha.E worm": {
+    "value": 154
+  },
+  "Win32/Bagle.B worm": {
+    "value": 155
+  },
+  "Win32/Rirc.A worm": {
+    "value": 156
+  },
+  "Win32/SheepGoat.10.A trojan": {
+    "value": 157
+  },
+  "Win32/Agent.YRR trojan": {
+    "value": 158
+  },
+  "Win32/Bajar.B worm": {
+    "value": 159
+  },
+  "NewHeur_VB_StartPage.3 trojan": {
+    "value": 160
+  },
+  "Win32/Ronater.A trojan": {
+    "value": 161
+  },
+  "Win32/Maax.A worm": {
+    "value": 162
+  },
+  "Win32/Exploit.DCom.O trojan": {
+    "value": 163
+  },
+  "Win32/Sober.E worm": {
+    "value": 164
+  },
+  "Win32/Mydoom.P worm": {
+    "value": 165
+  },
+  "Win32/HackTool.Auha.10 trojan": {
+    "value": 166
+  },
+  "Win32/Alcop.V worm": {
+    "value": 167
+  },
+  "Win32/Duload.B worm": {
+    "value": 168
+  },
+  "Win32/Nethief.51 trojan": {
+    "value": 169
+  },
+  "Win32/VB.PXB trojan": {
+    "value": 170
+  },
+  "Win32/Harex.A worm": {
+    "value": 171
+  },
+  "Win32/Sddrop.E worm": {
+    "value": 172
+  },
+  "Win32/Loony.E trojan": {
+    "value": 173
+  },
+  "Win32/Delf.E worm": {
+    "value": 174
+  },
+  "Win32/Bagle.K worm": {
+    "value": 175
+  },
+  "Win32/Zombam.B trojan": {
+    "value": 176
+  },
+  "I-Worm.Energy.B worm": {
+    "value": 177
+  },
+  "Win32/Mimail.X worm": {
+    "value": 178
+  },
+  "NewHeur_VB_Trojan.42 trojan": {
+    "value": 179
+  },
+  "Win32/WinShell.10 trojan": {
+    "value": 180
+  },
+  "Win32/EggDrop.130 trojan": {
+    "value": 181
+  },
+  "Win32/Cult.C worm": {
+    "value": 182
+  },
+  "Win32/TrojanProxy.Wopla.NAQ trojan": {
+    "value": 183
+  },
+  "Win32/Netsky.N worm": {
+    "value": 184
+  },
+  "Win32/Nachi.E worm": {
+    "value": 185
+  },
+  "Win32/Sbot trojan": {
+    "value": 186
+  },
+  "Win32/Soltern.NAA worm": {
+    "value": 187
+  },
+  "Win32/Bagle.AJ worm": {
+    "value": 188
+  },
+  "Win32/Mimail.P worm": {
+    "value": 189
+  },
+  "Generik.YZDPLP trojan": {
+    "value": 190
+  },
+  "Win32/Hobbit.G worm": {
+    "value": 191
+  },
+  "Win32/Mimail.R worm": {
+    "value": 192
+  },
+  "Win32/Slackbot.B trojan": {
+    "value": 193
+  },
+  "Win32/Mua.E worm": {
+    "value": 194
+  },
+  "Win32/TrojanDownloader.VB.OYN trojan": {
+    "value": 195
+  },
+  "Win32/MScr.P worm": {
+    "value": 196
+  },
+  "Win32/Orion trojan": {
+    "value": 197
+  },
+  "Win32/Flooder.MailSpam.Hirs.AA trojan": {
+    "value": 217
+  },
+  "Win32/Exploit.VB.F trojan": {
+    "value": 199
+  },
+  "Win32/Dumador.AI trojan": {
+    "value": 200
+  },
+  "Win32/NetDemon.10.Server trojan": {
+    "value": 201
+  },
+  "Win32/Symop.B worm": {
+    "value": 202
+  },
+  "Win32/Myparty.B worm": {
+    "value": 255
+  },
+  "Win32/Benatic.D worm": {
+    "value": 204
+  },
+  "Win32/Massaker.11.A trojan": {
+    "value": 205
+  },
+  "Win32/Xanax.C worm": {
+    "value": 206
+  },
+  "Win32/Bagle worm": {
+    "value": 207
+  },
+  "Win32/Netsky.P worm": {
+    "value": 208
+  },
+  "Win32/Netsky.Q worm": {
+    "value": 209
+  },
+  "Win32/Janker trojan": {
+    "value": 210
+  },
+  "Win32/Small.NFW trojan": {
+    "value": 211
+  },
+  "NewHeur_VB_Backdoor.14 trojan": {
+    "value": 212
+  },
+  "Win32/Hobbit.01 trojan": {
+    "value": 213
+  },
+  "Win32/Dumaru.A0 worm": {
+    "value": 214
+  },
+  "Win32/Netsky.B worm": {
+    "value": 215
+  },
+  "Win32/Nachi.H worm": {
+    "value": 216
+  },
+  "Win32/Nachi.L worm": {
+    "value": 218
+  },
+  "Win32/Backzat.V worm": {
+    "value": 219
+  },
+  "Win32/Smokodoor.NAB trojan": {
+    "value": 220
+  },
+  "NewHeur_VB_Trojan.33 trojan": {
+    "value": 221
+  },
+  "Win32/Spear.A worm": {
+    "value": 222
+  },
+  "Win32/Telserver.AA trojan": {
+    "value": 233
+  },
+  "NewHeur_VB_Backdoor.15 trojan": {
+    "value": 224
+  },
+  "Win32/DeltaSource.05 trojan": {
+    "value": 225
+  },
+  "Win32/TCmd.10 trojan": {
+    "value": 226
+  },
+  "Win32/Agent.OME trojan": {
+    "value": 227
+  },
+  "Generik.HQQGPRF trojan": {
+    "value": 228
+  },
+  "IRC/Hellfire.A worm": {
+    "value": 229
+  },
+  "Win32/Mimail.U worm": {
+    "value": 230
+  },
+  "Win32/Agent.OKS trojan": {
+    "value": 231
+  },
+  "Win32/Titidoor.NAA trojan": {
+    "value": 232
+  },
+  "Win32/Exploit.MRC.A trojan": {
+    "value": 234
+  },
+  "Win32/Revocer.A worm": {
+    "value": 235
+  },
+  "Win32/Mydoom.O worm": {
+    "value": 236
+  },
+  "Win32/Jeemp.E trojan": {
+    "value": 237
+  },
+  "Win32/Netsky.X worm": {
+    "value": 238
+  },
+  "Win32/Frethem.E worm": {
+    "value": 239
+  },
+  "Win32/Divux.D trojan": {
+    "value": 240
+  },
+  "Win32/IRCBot.AYH trojan": {
+    "value": 241
+  },
+  "Win32/Bagle.J worm": {
+    "value": 242
+  },
+  "Win32/Goweh.E trojan": {
+    "value": 243
+  },
+  "Win32/MScr.C worm": {
+    "value": 244
+  },
+  "Win32/Singu.J trojan": {
+    "value": 245
+  },
+  "Win32/Mydoom.H worm": {
+    "value": 246
+  },
+  "Win32/Prorat.12 trojan": {
+    "value": 247
+  },
+  "Win32/SpyBot.IS worm": {
+    "value": 248
+  },
+  "Win32/Mydoom.T worm": {
+    "value": 249
+  },
+  "Win32/OutSid.C worm": {
+    "value": 250
+  },
+  "Win32/VB.UJ trojan": {
+    "value": 251
+  },
+  "Win32/IRCBot.OV trojan": {
+    "value": 252
+  },
+  "Win32/Nuker.RPCNuke.NAB trojan": {
+    "value": 253
+  },
+  "Win32/Flooder.Quake.A trojan": {
+    "value": 254
+  },
+  "Win32/Myparty.B worm": {
+    "value": 255
+  }
+}

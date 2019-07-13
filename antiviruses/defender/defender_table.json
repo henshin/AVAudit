@@ -1,0 +1,1026 @@
+{
+  "Worm:Win32/Nodoom.A@mm": {
+    "value": 0,
+    "file": "sample_0bCeK.vir"
+  },
+  "Worm:Win32/Cult.D@mm": {
+    "value": 1,
+    "file": "sample_0C2rl.vir"
+  },
+  "Worm:Win32/Azag.A": {
+    "value": 2,
+    "file": "sample_0CXrN.vir"
+  },
+  "Backdoor:Win32/Small.BS": {
+    "value": 3,
+    "file": "sample_0hciq.vir"
+  },
+  "Worm:Win32/Utrick.A@mm": {
+    "value": 4,
+    "file": "sample_1BBaQ.vir"
+  },
+  "Backdoor:Win32/Netraider": {
+    "value": 5,
+    "file": "sample_1fs8X.vir"
+  },
+  "Worm:Win32/Tafix.B": {
+    "value": 6,
+    "file": "sample_1G0pf.vir"
+  },
+  "Trojan:Win32/Pof": {
+    "value": 7,
+    "file": "sample_1KX5w.vir"
+  },
+  "Constructor:DOS/Filebomber": {
+    "value": 8,
+    "file": "sample_2fUvd.vir"
+  },
+  "Worm:Win32/Roram.G": {
+    "value": 9,
+    "file": "sample_2G7p8.vir"
+  },
+  "Backdoor:Win32/Ricta.1_0": {
+    "value": 10,
+    "file": "sample_2hT0U.vir"
+  },
+  "Worm:DOS/Yoyks.F": {
+    "value": 11,
+    "file": "sample_2Lr9u.vir"
+  },
+  "Worm:Win32/Small.R": {
+    "value": 12,
+    "file": "sample_32uOc.vir"
+  },
+  "Trojan:Win32/Smvss.A": {
+    "value": 13,
+    "file": "sample_3NdPF.vir"
+  },
+  "Worm:Win32/Gillich.C": {
+    "value": 14,
+    "file": "sample_3tPqq.vir"
+  },
+  "Constructor:DOS/Awvck": {
+    "value": 15,
+    "file": "sample_4hY9i.vir"
+  },
+  "Backdoor:Win32/Zaratustra": {
+    "value": 16,
+    "file": "sample_4XAtD.vir"
+  },
+  "Worm:Win32/Mimail.F@mm": {
+    "value": 17,
+    "file": "sample_5SPbN.vir"
+  },
+  "Worm:Win32/Gizer.A@mm": {
+    "value": 18,
+    "file": "sample_5uSX6.vir"
+  },
+  "Worm:Win32/Secet.A@mm": {
+    "value": 19,
+    "file": "sample_5x4M6.vir"
+  },
+  "Worm:DOS/Kondrik.L": {
+    "value": 20,
+    "file": "sample_5zdRg.vir"
+  },
+  "Joke:Win32/MewII": {
+    "value": 21,
+    "file": "sample_66xvf.vir"
+  },
+  "Worm:DOS/Taxifolia.B": {
+    "value": 22,
+    "file": "sample_6cN95.vir"
+  },
+  "Trojan:DOS/ABCD.A": {
+    "value": 23,
+    "file": "sample_6plvr.vir"
+  },
+  "Worm:Win32/Repah.B@mm": {
+    "value": 24,
+    "file": "sample_6xV91.vir"
+  },
+  "Worm:Win32/Langex.A@mm": {
+    "value": 25,
+    "file": "sample_7AdEi.vir"
+  },
+  "Worm:Win32/Benatic.C@mm": {
+    "value": 26,
+    "file": "sample_7QbXB.vir"
+  },
+  "Worm:Win32/Alco.O@mm": {
+    "value": 27,
+    "file": "sample_7ZK98.vir"
+  },
+  "Backdoor:Win32/SilverFTP.1_0": {
+    "value": 28,
+    "file": "sample_80rgE.vir"
+  },
+  "Trojan:Win32/Spool": {
+    "value": 29,
+    "file": "sample_8bt8r.vir"
+  },
+  "Worm:Win32/Lucky.D": {
+    "value": 30,
+    "file": "sample_8ydVZ.vir"
+  },
+  "Backdoor:Win32/Rorex.A": {
+    "value": 31,
+    "file": "sample_93hPp.vir"
+  },
+  "Worm:DOS/Clau.2513": {
+    "value": 32,
+    "file": "sample_959cA.vir"
+  },
+  "Worm:DOS/Gillich.A": {
+    "value": 33,
+    "file": "sample_9C2oQ.vir"
+  },
+  "Worm:Win32/Nihilit.I@mm": {
+    "value": 34,
+    "file": "sample_9E5MK.vir"
+  },
+  "Worm:DOS/Kondrik.H@mm": {
+    "value": 35,
+    "file": "sample_9jtUX.vir"
+  },
+  "Backdoor:Win32/Recub": {
+    "value": 36,
+    "file": "sample_9KqXm.vir"
+  },
+  "Backdoor:Win32/Helios.12.B": {
+    "value": 37,
+    "file": "sample_9qTWP.vir"
+  },
+  "Virus:Win32/Veva": {
+    "value": 38,
+    "file": "sample_9VaXw.vir"
+  },
+  "Worm:Win32/Napsin.A@mm": {
+    "value": 39,
+    "file": "sample_A45Mp.vir"
+  },
+  "Backdoor:Win32/Evilgoat.A": {
+    "value": 40,
+    "file": "sample_aGlvS.vir"
+  },
+  "Backdoor:Win32/Shutall": {
+    "value": 41,
+    "file": "sample_AICup.vir"
+  },
+  "Backdoor:Win32/Prorat.1_2": {
+    "value": 42,
+    "file": "sample_alNnQ.vir"
+  },
+  "Worm:DOS/Kondrik.G@mm": {
+    "value": 43,
+    "file": "sample_Asjvq.vir"
+  },
+  "Worm:Win32/Heidex.A@mm": {
+    "value": 44,
+    "file": "sample_AXaJ2.vir"
+  },
+  "Worm:Win32/Gain.A@mm": {
+    "value": 45,
+    "file": "sample_B7nOm.vir"
+  },
+  "Backdoor:Win32/Expiorer": {
+    "value": 46,
+    "file": "sample_b87J2.vir"
+  },
+  "Worm:Win32/Roram.F": {
+    "value": 47,
+    "file": "sample_beocS.vir"
+  },
+  "Exploit:Win32/CrobFTP": {
+    "value": 48,
+    "file": "sample_bIVZd.vir"
+  },
+  "Backdoor:Win32/Hanuman.A": {
+    "value": 49,
+    "file": "sample_bmdWt.vir"
+  },
+  "Worm:Win32/Mimail.M@mm": {
+    "value": 50,
+    "file": "sample_BQXIP.vir"
+  },
+  "Backdoor:Win32/Hobbit": {
+    "value": 51,
+    "file": "sample_BSH95.vir"
+  },
+  "Worm:DOS/Sahara": {
+    "value": 52,
+    "file": "sample_Btf1P.vir"
+  },
+  "Worm:Win32/Redesi.A@mm": {
+    "value": 53,
+    "file": "sample_ceUlO.vir"
+  },
+  "Backdoor:Win32/Lana.D": {
+    "value": 54,
+    "file": "sample_clqVs.vir"
+  },
+  "Worm:DOS/Dragon.A": {
+    "value": 55,
+    "file": "sample_CULM3.vir"
+  },
+  "Worm:Win32/Mylife.M@mm": {
+    "value": 56,
+    "file": "sample_cvPeB.vir"
+  },
+  "Worm:Win32/Duload.B": {
+    "value": 57,
+    "file": "sample_dfmJz.vir"
+  },
+  "DoS:Win32/Jman.B": {
+    "value": 58,
+    "file": "sample_DHUEl.vir"
+  },
+  "Exploit:Win32/Vecnoit": {
+    "value": 59,
+    "file": "sample_dhznH.vir"
+  },
+  "Trojan:Win32/Crow": {
+    "value": 60,
+    "file": "sample_dT9TF.vir"
+  },
+  "Backdoor:Win32/Dkangel.2_0": {
+    "value": 61,
+    "file": "sample_dzODE.vir"
+  },
+  "Worm:Win32/Rous.D": {
+    "value": 62,
+    "file": "sample_E7Oz0.vir"
+  },
+  "Worm:Win32/Roram.C": {
+    "value": 63,
+    "file": "sample_ebg11.vir"
+  },
+  "Exploit:Win32/AntiRAR": {
+    "value": 64,
+    "file": "sample_egWYR.vir"
+  },
+  "Worm:Win32/Alco.M@mm": {
+    "value": 65,
+    "file": "sample_EgzeM.vir"
+  },
+  "Backdoor:Win32/Small.V": {
+    "value": 66,
+    "file": "sample_enesk.vir"
+  },
+  "Worm:Win32/Dovan.B": {
+    "value": 67,
+    "file": "sample_ESXyq.vir"
+  },
+  "Joke:Win32/Blondie": {
+    "value": 68,
+    "file": "sample_eTzDu.vir"
+  },
+  "Backdoor:Win32/Radix": {
+    "value": 69,
+    "file": "sample_EZlA1.vir"
+  },
+  "Worm:DOS/Kondrik.J": {
+    "value": 70,
+    "file": "sample_f71ax.vir"
+  },
+  "Worm:Win32/MTX.B@m": {
+    "value": 71,
+    "file": "sample_FdchE.vir"
+  },
+  "Trojan:Win32/Qdel.2_18": {
+    "value": 72,
+    "file": "sample_FHDCP.vir"
+  },
+  "Constructor:Win32/Uniskit": {
+    "value": 73,
+    "file": "sample_FNVF5.vir"
+  },
+  "DoS:Win32/Jolt2": {
+    "value": 74,
+    "file": "sample_fRJXI.vir"
+  },
+  "Spammer:Win32/Popcorn": {
+    "value": 75,
+    "file": "sample_ftWbO.vir"
+  },
+  "Backdoor:Win32/Insane.plugin": {
+    "value": 76,
+    "file": "sample_fuBBe.vir"
+  },
+  "Worm:DOS/Dragon.B": {
+    "value": 77,
+    "file": "sample_fWUcb.vir"
+  },
+  "Worm:Win32/Pops.A@mm": {
+    "value": 78,
+    "file": "sample_FZRj2.vir"
+  },
+  "TrojanDownloader:Win32/Dix": {
+    "value": 79,
+    "file": "sample_g15L4.vir"
+  },
+  "Joke:Win16/Crazymessage.A": {
+    "value": 80,
+    "file": "sample_G8700.vir"
+  },
+  "Joke:Win32/Stupen.A": {
+    "value": 81,
+    "file": "sample_gBxbW.vir"
+  },
+  "Backdoor:Win32/Matrim": {
+    "value": 82,
+    "file": "sample_GcjZA.vir"
+  },
+  "Worm:Win32/Skudex.A@mm": {
+    "value": 83,
+    "file": "sample_GhJHv.vir"
+  },
+  "Worm:DOS/Azaco_8192.A": {
+    "value": 84,
+    "file": "sample_gJA97.vir"
+  },
+  "Worm:Win32/Tusem.A": {
+    "value": 85,
+    "file": "sample_gJFX1.vir"
+  },
+  "Worm:Win32/Alcaul.V@mm": {
+    "value": 86,
+    "file": "sample_glFSj.vir"
+  },
+  "Joke:Win16/Aloap": {
+    "value": 87,
+    "file": "sample_gn4Hf.vir"
+  },
+  "Constructor:DOS/Vckit.A": {
+    "value": 88,
+    "file": "sample_Gq4AW.vir"
+  },
+  "Worm:DOS/Kondrik.K": {
+    "value": 89,
+    "file": "sample_gsDlj.vir"
+  },
+  "Backdoor:Win32/Tiny.B": {
+    "value": 90,
+    "file": "sample_GtzjB.vir"
+  },
+  "Trojan:Win32/Septer": {
+    "value": 91,
+    "file": "sample_GVtqP.vir"
+  },
+  "Worm:DOS/Click_It.A": {
+    "value": 92,
+    "file": "sample_H7NIh.vir"
+  },
+  "DoS:Win32/Hallenger": {
+    "value": 93,
+    "file": "sample_HH27v.vir"
+  },
+  "Joke:Win32/IconScroll": {
+    "value": 94,
+    "file": "sample_hJIZ4.vir"
+  },
+  "Worm:Win32/Melare.A@mm": {
+    "value": 95,
+    "file": "sample_Hswx6.vir"
+  },
+  "Worm:IRC/DS.5392": {
+    "value": 96,
+    "file": "sample_Hyo4o.vir"
+  },
+  "Worm:DOS/Lucky.C": {
+    "value": 97,
+    "file": "sample_HZYEW.vir"
+  },
+  "Backdoor:Win32/Small.CZ": {
+    "value": 98,
+    "file": "sample_I4SLO.vir"
+  },
+  "Joke:Win32/Foont": {
+    "value": 99,
+    "file": "sample_IBCXg.vir"
+  },
+  "Worm:Win32/Gillich.D": {
+    "value": 100,
+    "file": "sample_iD5Ra.vir"
+  },
+  "Worm:Win32/Alcaul.R@mm": {
+    "value": 101,
+    "file": "sample_IFGiL.vir"
+  },
+  "Worm:Win32/Trilima.E@mm": {
+    "value": 102,
+    "file": "sample_ifRj3.vir"
+  },
+  "HackTool:Win32/Upadmin.1_0": {
+    "value": 103,
+    "file": "sample_iilfX.vir"
+  },
+  "Worm:Win32/Energy.G@mm": {
+    "value": 104,
+    "file": "sample_IJgXM.vir"
+  },
+  "Worm:Win32/Cult.C@mm": {
+    "value": 105,
+    "file": "sample_IWtW8.vir"
+  },
+  "Worm:Win32/Doomjuice.B": {
+    "value": 106,
+    "file": "sample_J0fbR.vir"
+  },
+  "Worm:DOS/Apulia.D": {
+    "value": 107,
+    "file": "sample_J2MLX.vir"
+  },
+  "Worm:Win32/Skudex.B@mm": {
+    "value": 108,
+    "file": "sample_jajYd.vir"
+  },
+  "Worm:Win32/Alco.J@mm": {
+    "value": 109,
+    "file": "sample_jBADL.vir"
+  },
+  "Backdoor:Win32/Helibot.1_0": {
+    "value": 110,
+    "file": "sample_JC66s.vir"
+  },
+  "HackTool:Win32/Auha.A": {
+    "value": 111,
+    "file": "sample_JgHlk.vir"
+  },
+  "Backdoor:Win32/Remscan": {
+    "value": 112,
+    "file": "sample_JnOm4.vir"
+  },
+  "Worm:Win32/Rous.B@mm": {
+    "value": 113,
+    "file": "sample_jxqz6.vir"
+  },
+  "Backdoor:Win32/Delf.RF": {
+    "value": 114,
+    "file": "sample_JYU06.vir"
+  },
+  "Backdoor:Win32/MTX.A": {
+    "value": 115,
+    "file": "sample_KCIZY.vir"
+  },
+  "Backdoor:Win32/Netdex": {
+    "value": 116,
+    "file": "sample_ke7oN.vir"
+  },
+  "Worm:Win32/Roram.I": {
+    "value": 117,
+    "file": "sample_Kioft.vir"
+  },
+  "Trojan:Win32/Small.BF": {
+    "value": 118,
+    "file": "sample_kmupU.vir"
+  },
+  "Worm:DOS/Kondrik.B": {
+    "value": 119,
+    "file": "sample_kQrKF.vir"
+  },
+  "Worm:Win32/Mimail.H@mm": {
+    "value": 120,
+    "file": "sample_kWjNl.vir"
+  },
+  "Backdoor:Win32/Slackbot.B": {
+    "value": 121,
+    "file": "sample_kxnat.vir"
+  },
+  "Worm:Win32/Symop.B": {
+    "value": 122,
+    "file": "sample_l77mB.vir"
+  },
+  "Worm:Win32/Mimail.E@mm": {
+    "value": 123,
+    "file": "sample_L8Byo.vir"
+  },
+  "Backdoor:Win32/Litmus.Y": {
+    "value": 124,
+    "file": "sample_L9nfX.vir"
+  },
+  "Backdoor:Win32/Evilsock": {
+    "value": 125,
+    "file": "sample_LgHME.vir"
+  },
+  "Backdoor:Win32/Silly.A": {
+    "value": 126,
+    "file": "sample_LMksE.vir"
+  },
+  "Worm:DOS/Elspy.2278": {
+    "value": 127,
+    "file": "sample_lpIvV.vir"
+  },
+  "Worm:Win32/Energy.A": {
+    "value": 128,
+    "file": "sample_LpUDy.vir"
+  },
+  "DDoS:Win32/UDPFlood": {
+    "value": 129,
+    "file": "sample_LVllP.vir"
+  },
+  "Worm:Win32/Gizer.B@mm": {
+    "value": 130,
+    "file": "sample_M3wzb.vir"
+  },
+  "Backdoor:Win32/Kuang": {
+    "value": 131,
+    "file": "sample_mcZaf.vir"
+  },
+  "Worm:Win32/Bunny.A": {
+    "value": 132,
+    "file": "sample_MnbUt.vir"
+  },
+  "Worm:Win32/Bormex.A@mm": {
+    "value": 133,
+    "file": "sample_mNlTz.vir"
+  },
+  "Exploit:Win32/Pircher.A": {
+    "value": 134,
+    "file": "sample_MoZ5f.vir"
+  },
+  "Worm:Win32/Repah.A@mm": {
+    "value": 135,
+    "file": "sample_MpRZQ.vir"
+  },
+  "HackTool:Win32/AutoHack": {
+    "value": 136,
+    "file": "sample_MSjUC.vir"
+  },
+  "Worm:Win32/Rex.B@mm": {
+    "value": 137,
+    "file": "sample_myydR.vir"
+  },
+  "Trojan:Win32/Miar": {
+    "value": 138,
+    "file": "sample_n3cDd.vir"
+  },
+  "Worm:Win32/Excuse.A@mm": {
+    "value": 139,
+    "file": "sample_nCNmI.vir"
+  },
+  "Backdoor:Win32/Thething.B5": {
+    "value": 140,
+    "file": "sample_NeiGF.vir"
+  },
+  "Worm:Win32/Dumaru.A@mm": {
+    "value": 141,
+    "file": "sample_nHBvu.vir"
+  },
+  "Backdoor:Win32/DonaldDick.1_52": {
+    "value": 142,
+    "file": "sample_nhdOl.vir"
+  },
+  "Constructor:DOS/PTG": {
+    "value": 143,
+    "file": "sample_nJPWe.vir"
+  },
+  "Worm:Win32/Roram.A": {
+    "value": 144,
+    "file": "sample_NMtN9.vir"
+  },
+  "Backdoor:Win32/IcmpCmd.1_0": {
+    "value": 145,
+    "file": "sample_NyNN8.vir"
+  },
+  "Worm:Win32/Solvina.A@mm": {
+    "value": 146,
+    "file": "sample_nZ3xg.vir"
+  },
+  "Worm:Win32/Voyager.B": {
+    "value": 147,
+    "file": "sample_nziod.vir"
+  },
+  "Worm:Win32/Roram.H": {
+    "value": 148,
+    "file": "sample_O8wiR.vir"
+  },
+  "DDoS:Win32/LifeWire": {
+    "value": 149,
+    "file": "sample_ogPhU.vir"
+  },
+  "Worm:Win32/Alco.R@mm": {
+    "value": 150,
+    "file": "sample_Ohsl1.vir"
+  },
+  "Worm:Win32/Fever.B@mm": {
+    "value": 151,
+    "file": "sample_oj48A.vir"
+  },
+  "Worm:Win32/Aliz.A@mm": {
+    "value": 152,
+    "file": "sample_oN8Ke.vir"
+  },
+  "Backdoor:Win32/Lithium.1_02": {
+    "value": 153,
+    "file": "sample_OPjdl.vir"
+  },
+  "Trojan:Win32/Die.A": {
+    "value": 154,
+    "file": "sample_oqpvr.vir"
+  },
+  "Worm:Win32/FreeTrip.C@mm": {
+    "value": 155,
+    "file": "sample_oru83.vir"
+  },
+  "Constructor:DOS/VCS": {
+    "value": 156,
+    "file": "sample_p10fT.vir"
+  },
+  "Backdoor:Win32/Kyrdor.B": {
+    "value": 157,
+    "file": "sample_p3CZK.vir"
+  },
+  "Worm:Win32/Gnuman.A": {
+    "value": 158,
+    "file": "sample_P6hfi.vir"
+  },
+  "Worm:Win32/Ska.A@m": {
+    "value": 159,
+    "file": "sample_PdMMB.vir"
+  },
+  "Worm:DOS/Elspy.9619": {
+    "value": 160,
+    "file": "sample_PILdT.vir"
+  },
+  "Worm:Win32/Bumdoc.A": {
+    "value": 161,
+    "file": "sample_PkB2s.vir"
+  },
+  "Backdoor:Win32/Rat.1_0": {
+    "value": 162,
+    "file": "sample_pkQmU.vir"
+  },
+  "Worm:Win32/Skud.A@mm": {
+    "value": 163,
+    "file": "sample_pLlx2.vir"
+  },
+  "Worm:DOS/Gillich.B": {
+    "value": 164,
+    "file": "sample_PM158.vir"
+  },
+  "Exploit:Win32/RSeries": {
+    "value": 165,
+    "file": "sample_Pnz1A.vir"
+  },
+  "Worm:Win32/ClickIt.F": {
+    "value": 166,
+    "file": "sample_pp6rf.vir"
+  },
+  "Backdoor:Win32/Digitul": {
+    "value": 167,
+    "file": "sample_pQeSN.vir"
+  },
+  "Worm:Win32/VB.M": {
+    "value": 168,
+    "file": "sample_PsOAV.vir"
+  },
+  "Worm:Win32/Genky": {
+    "value": 169,
+    "file": "sample_Pvn5T.vir"
+  },
+  "Backdoor:Win32/Levelone.B": {
+    "value": 170,
+    "file": "sample_Q3qJJ.vir"
+  },
+  "Worm:DOS/Azaco_8192.B": {
+    "value": 171,
+    "file": "sample_q6DTO.vir"
+  },
+  "Backdoor:Win32/Libdoor": {
+    "value": 172,
+    "file": "sample_qbl0x.vir"
+  },
+  "Worm:Win32/Alco.Q@mm": {
+    "value": 173,
+    "file": "sample_QLARv.vir"
+  },
+  "Worm:DOS/Flib.A": {
+    "value": 174,
+    "file": "sample_qNGK0.vir"
+  },
+  "Trojan:Win32/Docirc": {
+    "value": 175,
+    "file": "sample_qPsX4.vir"
+  },
+  "Backdoor:Win32/Wisell.A": {
+    "value": 176,
+    "file": "sample_R8Mty.vir"
+  },
+  "DoS:Win16/Pounder": {
+    "value": 177,
+    "file": "sample_R8zqO.vir"
+  },
+  "Worm:DOS/Kondrik.O": {
+    "value": 178,
+    "file": "sample_rlCA0.vir"
+  },
+  "Worm:Win32/Benatic.B@mm": {
+    "value": 179,
+    "file": "sample_Rnn15.vir"
+  },
+  "Worm:Win32/Tafix.A": {
+    "value": 180,
+    "file": "sample_s4LfI.vir"
+  },
+  "Worm:Win32/MTX.C@mm": {
+    "value": 181,
+    "file": "sample_S8SAH.vir"
+  },
+  "Worm:Win32/Voyager.A": {
+    "value": 182,
+    "file": "sample_sBuVJ.vir"
+  },
+  "Worm:Win32/Mylife.D@mm": {
+    "value": 183,
+    "file": "sample_Sc3UC.vir"
+  },
+  "Worm:Win32/Mylife.F@mm": {
+    "value": 184,
+    "file": "sample_Sc8Cg.vir"
+  },
+  "Constructor:DOS/Virugen": {
+    "value": 185,
+    "file": "sample_scgNL.vir"
+  },
+  "Trojan:Win32/Rbtg": {
+    "value": 186,
+    "file": "sample_SeUvH.vir"
+  },
+  "Backdoor:Win32/Janker": {
+    "value": 187,
+    "file": "sample_sgPWk.vir"
+  },
+  "Backdoor:Win32/Shabo.A": {
+    "value": 188,
+    "file": "sample_SIcHa.vir"
+  },
+  "Constructor:DOS/EasyGen.A": {
+    "value": 189,
+    "file": "sample_sNyaL.vir"
+  },
+  "Backdoor:Win32/Silly.B": {
+    "value": 190,
+    "file": "sample_ssDcN.vir"
+  },
+  "Exploit:Win32/MRC": {
+    "value": 191,
+    "file": "sample_STxf5.vir"
+  },
+  "Backdoor:Win32/Postic": {
+    "value": 192,
+    "file": "sample_swg4Z.vir"
+  },
+  "Backdoor:Win32/Subseven!patcher": {
+    "value": 193,
+    "file": "sample_T1PfN.vir"
+  },
+  "Worm:Win32/Alco.I@mm": {
+    "value": 194,
+    "file": "sample_T2Uos.vir"
+  },
+  "Worm:IRC/Taxifolia": {
+    "value": 195,
+    "file": "sample_t9Ure.vir"
+  },
+  "Worm:Win32/SuperLamer.A": {
+    "value": 196,
+    "file": "sample_t9ysE.vir"
+  },
+  "Backdoor:Win32/Levelone.A": {
+    "value": 197,
+    "file": "sample_TaEFL.vir"
+  },
+  "Worm:Win32/Mydoom.A@mm.dll": {
+    "value": 198,
+    "file": "sample_tCmbp.vir"
+  },
+  "Backdoor:Win32/Dropegg.1_36": {
+    "value": 199,
+    "file": "sample_teRPR.vir"
+  },
+  "Worm:Win32/Roram.D": {
+    "value": 200,
+    "file": "sample_tH6Ny.vir"
+  },
+  "Backdoor:IRC/Kaiten.C": {
+    "value": 201,
+    "file": "sample_TnJxS.vir"
+  },
+  "Worm:DOS/Kondrik.M": {
+    "value": 202,
+    "file": "sample_tttnn.vir"
+  },
+  "Worm:Win32/Opop": {
+    "value": 203,
+    "file": "sample_twR29.vir"
+  },
+  "Exploit:Win32/Dcom.Y": {
+    "value": 204,
+    "file": "sample_tx3FV.vir"
+  },
+  "Worm:Win32/Gizer.C@mm": {
+    "value": 205,
+    "file": "sample_Tz4gI.vir"
+  },
+  "Worm:Win32/Toal.A@mm": {
+    "value": 206,
+    "file": "sample_u9huU.vir"
+  },
+  "Worm:Win32/Burl.A": {
+    "value": 207,
+    "file": "sample_u9WiF.vir"
+  },
+  "Backdoor:Win32/VB.UJ": {
+    "value": 208,
+    "file": "sample_UcgHN.vir"
+  },
+  "DoS:Win32/ZZ": {
+    "value": 209,
+    "file": "sample_ugluX.vir"
+  },
+  "Virus:VBS/Prophecy.A": {
+    "value": 210,
+    "file": "sample_UJFyD.vir"
+  },
+  "HackTool:Win32/Fumn": {
+    "value": 211,
+    "file": "sample_UJIYk.vir"
+  },
+  "Backdoor:Win32/Piper": {
+    "value": 212,
+    "file": "sample_uQe9Q.vir"
+  },
+  "Backdoor:Win32/HVLRat": {
+    "value": 213,
+    "file": "sample_UqzLO.vir"
+  },
+  "Backdoor:Win32/Portless.1_0": {
+    "value": 214,
+    "file": "sample_UUT46.vir"
+  },
+  "Backdoor:Win32/Wisell": {
+    "value": 215,
+    "file": "sample_UwOsF.vir"
+  },
+  "Worm:Win32/Pnguin.A@mm": {
+    "value": 216,
+    "file": "sample_VcCBy.vir"
+  },
+  "Worm:Win32/Unis.C@mm": {
+    "value": 217,
+    "file": "sample_vKLbU.vir"
+  },
+  "Worm:DOS/Flib": {
+    "value": 218,
+    "file": "sample_vMlSk.vir"
+  },
+  "Worm:Win32/Toviz.A@mm": {
+    "value": 219,
+    "file": "sample_vnC55.vir"
+  },
+  "Backdoor:Win32/Tiny": {
+    "value": 220,
+    "file": "sample_vVBrD.vir"
+  },
+  "DDoS:Win32/Soldier": {
+    "value": 221,
+    "file": "sample_VvyuY.vir"
+  },
+  "Backdoor:Win32/Notpa": {
+    "value": 222,
+    "file": "sample_vWn5j.vir"
+  },
+  "Worm:Win32/Bare.D": {
+    "value": 223,
+    "file": "sample_w5aBK.vir"
+  },
+  "Worm:DOS/Kondrik.N": {
+    "value": 224,
+    "file": "sample_WBVIc.vir"
+  },
+  "Worm:DOS/Kazimas.A": {
+    "value": 225,
+    "file": "sample_WimLX.vir"
+  },
+  "Worm:Win32/ClickIt.E": {
+    "value": 226,
+    "file": "sample_WkU0A.vir"
+  },
+  "Worm:DOS/Duke": {
+    "value": 227,
+    "file": "sample_WOWy4.vir"
+  },
+  "Backdoor:Win32/MTX.D": {
+    "value": 228,
+    "file": "sample_X0EVd.vir"
+  },
+  "Backdoor:Win32/Smokodoor": {
+    "value": 229,
+    "file": "sample_x0oJT.vir"
+  },
+  "Worm:IRC/Buffy.B": {
+    "value": 230,
+    "file": "sample_X2jy2.vir"
+  },
+  "Virus:Win32/Compux.A": {
+    "value": 231,
+    "file": "sample_XD2Hy.vir"
+  },
+  "PWS:Win32/Kalm": {
+    "value": 232,
+    "file": "sample_xd58w.vir"
+  },
+  "Worm:Win32/Bagle.C@mm": {
+    "value": 233,
+    "file": "sample_XFHEi.vir"
+  },
+  "Trojan:Win32/DNF": {
+    "value": 234,
+    "file": "sample_xHr6y.vir"
+  },
+  "Worm:Win32/Trilima.F@mm": {
+    "value": 235,
+    "file": "sample_XJl86.vir"
+  },
+  "Worm:Win32/Demspy": {
+    "value": 236,
+    "file": "sample_XmjN9.vir"
+  },
+  "DoS:Win32/Jman.A": {
+    "value": 237,
+    "file": "sample_XQElQ.vir"
+  },
+  "DoS:Win32/QQnukeall": {
+    "value": 238,
+    "file": "sample_xrm06.vir"
+  },
+  "Worm:Win32/Achar.A": {
+    "value": 239,
+    "file": "sample_XttNo.vir"
+  },
+  "Worm:Win32/Sander.A@mm": {
+    "value": 240,
+    "file": "sample_Xu4SK.vir"
+  },
+  "Worm:Win32/Troodon.A@mm": {
+    "value": 241,
+    "file": "sample_XxwKR.vir"
+  },
+  "Backdoor:Win32/Iredor": {
+    "value": 242,
+    "file": "sample_XY1PH.vir"
+  },
+  "Worm:Win32/GreenCode.A": {
+    "value": 243,
+    "file": "sample_xZGJ7.vir"
+  },
+  "DoS:Win32/Angryping": {
+    "value": 244,
+    "file": "sample_y5VFx.vir"
+  },
+  "Worm:Win32/Duksten.C@mm": {
+    "value": 245,
+    "file": "sample_YbN23.vir"
+  },
+  "Virus:DOS/Apulia": {
+    "value": 246,
+    "file": "sample_YdNbQ.vir"
+  },
+  "Worm:Win32/Burnox": {
+    "value": 247,
+    "file": "sample_yNg9z.vir"
+  },
+  "Worm:Win32/Pops.B@mm": {
+    "value": 248,
+    "file": "sample_ypoLa.vir"
+  },
+  "Worm:Win32/Benatic.A@mm": {
+    "value": 249,
+    "file": "sample_YTeZ2.vir"
+  },
+  "Worm:Win32/Roram.B": {
+    "value": 250,
+    "file": "sample_YtsXZ.vir"
+  },
+  "Worm:Win32/Azirk.A": {
+    "value": 251,
+    "file": "sample_yucS0.vir"
+  },
+  "Worm:Win32/Druagz.A": {
+    "value": 252,
+    "file": "sample_ZgaER.vir"
+  },
+  "HackTool:Win32/Upadmin.1_5": {
+    "value": 253,
+    "file": "sample_ZObqT.vir"
+  },
+  "Worm:Win32/Nachi.A": {
+    "value": 254,
+    "file": "sample_zwQtA.vir"
+  },
+  "Worm:Win32/Rous.C": {
+    "value": 255,
+    "file": "sample_zynJH.vir"
+  }
+}

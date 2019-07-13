@@ -1,0 +1,513 @@
+
+[ESET] INFO - Config written from index 0 to 1
+[ESET] INFO - ['Win32/Wisdoor trojan']
+[ESET] INFO - Config written from index 1 to 2
+[ESET] INFO - ['Win32/NetSlayer.10 trojan']
+[ESET] INFO - Config written from index 2 to 3
+[ESET] INFO - ['Win32/Opaserv worm']
+[ESET] INFO - Config written from index 3 to 4
+[ESET] INFO - ['Win32/Mydoom.R worm']
+[ESET] INFO - Config written from index 4 to 5
+[ESET] INFO - ['Win32/Frethem.A worm']
+[ESET] INFO - Config written from index 5 to 6
+[ESET] INFO - ['Win32/Nachi.G worm']
+[ESET] INFO - Config written from index 6 to 7
+[ESET] INFO - ['Win32/Zafi.B worm']
+[ESET] INFO - Config written from index 7 to 8
+[ESET] INFO - ['Win32/Lolol.E worm']
+[ESET] INFO - Config written from index 8 to 9
+[ESET] INFO - ['Win32/Kipis.A worm']
+[ESET] INFO - Config written from index 9 to 10
+[ESET] INFO - ['Win32/VB.NKW trojan']
+[ESET] INFO - Config written from index 10 to 11
+[ESET] INFO - ['Win32/HackTool.Auha.20 trojan']
+[ESET] INFO - Config written from index 11 to 12
+[ESET] INFO - ['NewHeur_VB_Backdoor.35 trojan']
+[ESET] INFO - Config written from index 12 to 13
+[ESET] INFO - ['Win32/HackTool.Auha.24 trojan']
+[ESET] INFO - Config written from index 13 to 14
+[ESET] INFO - ['Win32/Feardoor.NAA trojan']
+[ESET] INFO - Config written from index 14 to 15
+[ESET] INFO - ['Win32/HackTool.Auha.30.A trojan']
+[ESET] INFO - Config written from index 15 to 16
+[ESET] INFO - ['Win32/Roron.A worm']
+[ESET] INFO - Config written from index 16 to 17
+[ESET] INFO - ['Win32/SilverFTP.A trojan']
+[ESET] INFO - Config written from index 17 to 18
+[ESET] INFO - ['Win32/Spear.B worm']
+[ESET] INFO - Config written from index 18 to 19
+[ESET] INFO - ['Win32/TrojanDropper.Joiner.NAK trojan']
+[ESET] INFO - Config written from index 19 to 20
+[ESET] INFO - ['Win32/Revocer.B worm']
+[ESET] INFO - Config written from index 20 to 21
+[ESET] INFO - ['Win32/Tiny.NAA trojan']
+[ESET] INFO - Config written from index 21 to 22
+[ESET] INFO - ['Win32/Bagle.AQ worm']
+[ESET] INFO - Config written from index 22 to 23
+[ESET] INFO - ['Win32/Wohar.A worm']
+[ESET] INFO - Config written from index 23 to 24
+[ESET] INFO - ['Win32/Spy.Tofger.NAE trojan']
+[ESET] INFO - Config written from index 24 to 25
+[ESET] INFO - ['Win32/SpyBot.APV worm']
+[ESET] INFO - Config written from index 25 to 26
+[ESET] INFO - ['Win32/Remscan trojan']
+[ESET] INFO - Config written from index 26 to 27
+[ESET] INFO - ['Generik.IJKNTTM trojan']
+[ESET] INFO - Config written from index 27 to 28
+[ESET] INFO - ['Win32/Netsky.C worm']
+[ESET] INFO - Config written from index 28 to 29
+[ESET] INFO - ['Win32/Bagle.AL worm']
+[ESET] INFO - Config written from index 29 to 30
+[ESET] INFO - ['Win32/Netsky.AB worm']
+[ESET] INFO - Config written from index 30 to 31
+[ESET] INFO - ['Win32/MScr.N worm']
+[ESET] INFO - Config written from index 31 to 32
+[ESET] INFO - ['NewHeur_VB_Backdoor.2 trojan']
+[ESET] INFO - Config written from index 32 to 33
+[ESET] INFO - ['Win32/Mydoom.A trojan']
+[ESET] INFO - Config written from index 33 to 34
+[ESET] INFO - ['IIS/Exploit.Hack.B trojan']
+[ESET] INFO - Config written from index 34 to 35
+[ESET] INFO - ['Win32/HackTool.Auha.22 trojan']
+[ESET] INFO - Config written from index 35 to 36
+[ESET] INFO - ['Win32/PSW.Legendmir.KM trojan']
+[ESET] INFO - Config written from index 36 to 37
+[ESET] INFO - ['Win32/Solvina.A worm']
+[ESET] INFO - Config written from index 37 to 38
+[ESET] INFO - ['Win32/Zenmaster.102 trojan']
+[ESET] INFO - Config written from index 38 to 39
+[ESET] INFO - ['Win32/Exploit.IE.Fearless trojan']
+[ESET] INFO - Config written from index 39 to 40
+[ESET] INFO - ['Win32/Netsky.E worm']
+[ESET] INFO - Config written from index 40 to 41
+[ESET] INFO - ['Win32/Sober.D worm']
+[ESET] INFO - Config written from index 41 to 42
+[ESET] INFO - ['Win32/Spear.P worm']
+[ESET] INFO - Config written from index 42 to 43
+[ESET] INFO - ['Win32/Flooder.Quake.B trojan']
+[ESET] INFO - Config written from index 43 to 44
+[ESET] INFO - ['Win32/Stopin.D worm']
+[ESET] INFO - Config written from index 44 to 45
+[ESET] INFO - ['Win32/Hackarmy.A trojan']
+[ESET] INFO - Config written from index 45 to 46
+[ESET] INFO - ['Win32/Mydoom worm']
+[ESET] INFO - Config written from index 46 to 47
+[ESET] INFO - ['Win32/Uploader.1_0 trojan']
+[ESET] INFO - Config written from index 47 to 48
+[ESET] INFO - ['Win32/Radix trojan']
+[ESET] INFO - Config written from index 48 to 49
+[ESET] INFO - ['Win32/Qizy.A worm']
+[ESET] INFO - Config written from index 49 to 50
+[ESET] INFO - ['Win32/Myparty.A worm']
+[ESET] INFO - Config written from index 50 to 51
+[ESET] INFO - ['Win32/VB.PE trojan']
+[ESET] INFO - Config written from index 51 to 52
+[ESET] INFO - ['Generik.CBMFZDN trojan']
+[ESET] INFO - Config written from index 52 to 53
+[ESET] INFO - ['IRC/Kwbot.13 trojan']
+[ESET] INFO - Config written from index 53 to 54
+[ESET] INFO - ['Win32/Espion.10 trojan']
+[ESET] INFO - Config written from index 54 to 55
+[ESET] INFO - ['Win32/KillAV.BR trojan']
+[ESET] INFO - Config written from index 55 to 56
+[ESET] INFO - ['Win32/Opex.A worm']
+[ESET] INFO - Config written from index 56 to 57
+[ESET] INFO - ['IRC/Poopoo.B worm']
+[ESET] INFO - Config written from index 57 to 58
+[ESET] INFO - ['Win32/SpyBot.APW worm']
+[ESET] INFO - Config written from index 58 to 59
+[ESET] INFO - ['Win32/Lirva.F worm']
+[ESET] INFO - Config written from index 59 to 60
+[ESET] INFO - ['NewHeur_VB_Trojan.32 trojan']
+[ESET] INFO - Config written from index 60 to 61
+[ESET] INFO - ['Win32/Park.A worm']
+[ESET] INFO - Config written from index 61 to 62
+[ESET] INFO - ['Win32/Maldal.NAB worm']
+[ESET] INFO - Config written from index 62 to 63
+[ESET] INFO - ['Win32/Dabber.A worm']
+[ESET] INFO - Config written from index 63 to 64
+[ESET] INFO - ['Win32/EggDrop trojan']
+[ESET] INFO - Config written from index 64 to 65
+[ESET] INFO - ['Win32/IRC.SdBot.D trojan']
+[ESET] INFO - Config written from index 65 to 66
+[ESET] INFO - ['Win32/Knight trojan']
+[ESET] INFO - Config written from index 66 to 67
+[ESET] INFO - ['Win32/Atak.A worm']
+[ESET] INFO - Config written from index 67 to 68
+[ESET] INFO - ['Win32/Taripox.A.unp worm']
+[ESET] INFO - Config written from index 68 to 69
+[ESET] INFO - ['Win32/Small.BF trojan']
+[ESET] INFO - Config written from index 69 to 70
+[ESET] INFO - ['Win32/Agent.QPR trojan']
+[ESET] INFO - Config written from index 70 to 71
+[ESET] INFO - ['Win32/Kryptik.ASO trojan']
+[ESET] INFO - Config written from index 71 to 72
+[ESET] INFO - ['Win32/Error32 trojan']
+[ESET] INFO - Config written from index 72 to 73
+[ESET] INFO - ['Win32/Bagle.M worm']
+[ESET] INFO - Config written from index 73 to 74
+[ESET] INFO - ['Win32/BadJoke.AZ trojan']
+[ESET] INFO - Config written from index 74 to 75
+[ESET] INFO - ['Win32/Mimail.C worm']
+[ESET] INFO - Config written from index 75 to 76
+[ESET] INFO - ['NewHeur_VB_Trojan.26 trojan']
+[ESET] INFO - Config written from index 76 to 77
+[ESET] INFO - ['Win32/Portless.NAD trojan']
+[ESET] INFO - Config written from index 77 to 78
+[ESET] INFO - ['Win32/Evilsock.D trojan']
+[ESET] INFO - Config written from index 78 to 79
+[ESET] INFO - ['Win32/Delf.OQB trojan']
+[ESET] INFO - Config written from index 79 to 80
+[ESET] INFO - ['Win32/Netsky.Y worm']
+[ESET] INFO - Config written from index 80 to 81
+[ESET] INFO - ['Win32/MScr.A worm']
+[ESET] INFO - Config written from index 81 to 82
+[ESET] INFO - ['Win32/Netsky.F worm']
+[ESET] INFO - Config written from index 82 to 83
+[ESET] INFO - ['Win32/VB.OPG trojan']
+[ESET] INFO - Config written from index 83 to 84
+[ESET] INFO - ['Win32/SpyBot.g4 worm']
+[ESET] INFO - Config written from index 84 to 85
+[ESET] INFO - ['Win32/DTR.16.C trojan']
+[ESET] INFO - Config written from index 85 to 86
+[ESET] INFO - ['Generik.MHXNSLO trojan']
+[ESET] INFO - Config written from index 86 to 87
+[ESET] INFO - ['Win32/Loony.NAP trojan']
+[ESET] INFO - Config written from index 87 to 88
+[ESET] INFO - ['Win32/Netsky.AN worm']
+[ESET] INFO - Config written from index 88 to 89
+[ESET] INFO - ['Win32/Agent.NDN virus']
+[ESET] INFO - Config written from index 89 to 90
+[ESET] INFO - ['Win32/Mimail.E worm']
+[ESET] INFO - Config written from index 90 to 91
+[ESET] INFO - ['Win32/Fatcat.A.unp worm']
+[ESET] INFO - Config written from index 91 to 92
+[ESET] INFO - ['Win32/Bare.F worm']
+[ESET] INFO - Config written from index 92 to 93
+[ESET] INFO - ['Win32/HackTool.Auha.11 trojan']
+[ESET] INFO - Config written from index 93 to 94
+[ESET] INFO - ['Win32/Maldal.K worm']
+[ESET] INFO - Config written from index 94 to 95
+[ESET] INFO - ['Win32/Loony.D1 trojan']
+[ESET] INFO - Config written from index 95 to 96
+[ESET] INFO - ['Win32/Netsky.O worm']
+[ESET] INFO - Config written from index 96 to 97
+[ESET] INFO - ['Win32/Doomjuice.B worm']
+[ESET] INFO - Config written from index 97 to 98
+[ESET] INFO - ['NewHeur_VB_Backdoor.38 trojan']
+[ESET] INFO - Config written from index 98 to 99
+[ESET] INFO - ['NewHeur_VB_StartPage.5 trojan']
+[ESET] INFO - Config written from index 99 to 100
+[ESET] INFO - ['Win32/Delf.LE trojan']
+[ESET] INFO - Config written from index 100 to 101
+[ESET] INFO - ['Win32/Nimda.A worm']
+[ESET] INFO - Config written from index 101 to 102
+[ESET] INFO - ['Win32/Bagle.gen worm']
+[ESET] INFO - Config written from index 102 to 103
+[ESET] INFO - ['Win32/Gluber.A worm']
+[ESET] INFO - Config written from index 103 to 104
+[ESET] INFO - ['Win32/Litmus.201.Server trojan']
+[ESET] INFO - Config written from index 104 to 105
+[ESET] INFO - ['Win32/HackTool.Auha.30.B trojan']
+[ESET] INFO - Config written from index 105 to 106
+[ESET] INFO - ['NewHeur_VB_Trojan.22 trojan']
+[ESET] INFO - Config written from index 106 to 107
+[ESET] INFO - ['Win32/HackTool.Auha.21 trojan']
+[ESET] INFO - Config written from index 107 to 108
+[ESET] INFO - ['Win32/Anarch.A worm']
+[ESET] INFO - Config written from index 108 to 109
+[ESET] INFO - ['Generik.JDJVAHK trojan']
+[ESET] INFO - Config written from index 109 to 110
+[ESET] INFO - ['Win32/Netsky.R worm']
+[ESET] INFO - Config written from index 110 to 111
+[ESET] INFO - ['Win32/TDS.AB trojan']
+[ESET] INFO - Config written from index 111 to 112
+[ESET] INFO - ['Win32/Roach.A worm']
+[ESET] INFO - Config written from index 112 to 113
+[ESET] INFO - ['Win32/Spear.Q worm']
+[ESET] INFO - Config written from index 113 to 114
+[ESET] INFO - ['Win32/Elfrit.12 trojan']
+[ESET] INFO - Config written from index 114 to 115
+[ESET] INFO - ['Win32/Opaserv.AC worm']
+[ESET] INFO - Config written from index 115 to 116
+[ESET] INFO - ['Win32/Raleka.J worm']
+[ESET] INFO - Config written from index 116 to 117
+[ESET] INFO - ['Win32/STD.F worm']
+[ESET] INFO - Config written from index 117 to 118
+[ESET] INFO - ['Win32/Urbe.C worm']
+[ESET] INFO - Config written from index 118 to 119
+[ESET] INFO - ['Generik.BLLVFSW trojan']
+[ESET] INFO - Config written from index 119 to 120
+[ESET] INFO - ['Win32/TDS.AA trojan']
+[ESET] INFO - Config written from index 120 to 121
+[ESET] INFO - ['Win32/Recub.A trojan']
+[ESET] INFO - Config written from index 121 to 122
+[ESET] INFO - ['Win32/Jacktron.20 trojan']
+[ESET] INFO - Config written from index 122 to 123
+[ESET] INFO - ['Win32/Bagle.Q worm']
+[ESET] INFO - Config written from index 123 to 124
+[ESET] INFO - ['Win32/Netsup.A worm']
+[ESET] INFO - Config written from index 124 to 125
+[ESET] INFO - ['Win32/DoS.SynFlood.A trojan']
+[ESET] INFO - Config written from index 125 to 126
+[ESET] INFO - ['Win32/Mydoom.E worm']
+[ESET] INFO - Config written from index 126 to 127
+[ESET] INFO - ['Win32/VB.CF worm']
+[ESET] INFO - Config written from index 127 to 128
+[ESET] INFO - ['NewHeur_VB_Backdoor.41 trojan']
+[ESET] INFO - Config written from index 128 to 129
+[ESET] INFO - ['Win32/Exploit.DCom.NAF trojan']
+[ESET] INFO - Config written from index 129 to 130
+[ESET] INFO - ['Win32/VB.KQ trojan']
+[ESET] INFO - Config written from index 130 to 131
+[ESET] INFO - ['Win32/Spy.Dks trojan']
+[ESET] INFO - Config written from index 131 to 132
+[ESET] INFO - ['Win32/VB.NAE worm']
+[ESET] INFO - Config written from index 132 to 133
+[ESET] INFO - ['Win32/Nethief.NAG trojan']
+[ESET] INFO - Config written from index 133 to 134
+[ESET] INFO - ['Win32/Bagle.S worm']
+[ESET] INFO - Config written from index 134 to 135
+[ESET] INFO - ['Win32/Gizer.D worm']
+[ESET] INFO - Config written from index 135 to 136
+[ESET] INFO - ['Win32/HackTool.Auha.23 trojan']
+[ESET] INFO - Config written from index 136 to 137
+[ESET] INFO - ['Win32/TrojanDownloader.Small.ZL trojan']
+[ESET] INFO - Config written from index 137 to 138
+[ESET] INFO - ['NewHeur_VB_Trojan.31 trojan']
+[ESET] INFO - Config written from index 138 to 139
+[ESET] INFO - ['Win32/SpyBot.TV worm']
+[ESET] INFO - Config written from index 139 to 140
+[ESET] INFO - ['Win32/Small.NCS worm']
+[ESET] INFO - Config written from index 140 to 141
+[ESET] INFO - ['NewHeur_VB_Trojan.15 trojan']
+[ESET] INFO - Config written from index 141 to 142
+[ESET] INFO - ['Win32/Flooder.ICQ.ICQBomber.15 trojan']
+[ESET] INFO - Config written from index 142 to 143
+[ESET] INFO - ['Win32/Netsky.D worm']
+[ESET] INFO - Config written from index 143 to 144
+[ESET] INFO - ['Win32/Spreter.B worm']
+[ESET] INFO - Config written from index 144 to 145
+[ESET] INFO - ['Win32/Kryptik.FD trojan']
+[ESET] INFO - Config written from index 145 to 146
+[ESET] INFO - ['Win32/Haxdoor.C trojan']
+[ESET] INFO - Config written from index 146 to 147
+[ESET] INFO - ['Win32/VB.MY trojan']
+[ESET] INFO - Config written from index 147 to 148
+[ESET] INFO - ['IRC/SdBot.BBJ trojan']
+[ESET] INFO - Config written from index 148 to 149
+[ESET] INFO - ['Win32/Unis.A1 worm']
+[ESET] INFO - Config written from index 149 to 150
+[ESET] INFO - ['Win32/Scatter.A worm']
+[ESET] INFO - Config written from index 150 to 151
+[ESET] INFO - ['NewHeur_VB_Trojan.37 trojan']
+[ESET] INFO - Config written from index 151 to 152
+[ESET] INFO - ['Win32/Mydoom.Q worm']
+[ESET] INFO - Config written from index 152 to 153
+[ESET] INFO - ['Win32/Helios.NAB trojan']
+[ESET] INFO - Config written from index 153 to 154
+[ESET] INFO - ['Win32/TrojanDropper.Small.NID trojan']
+[ESET] INFO - Config written from index 154 to 155
+[ESET] INFO - ['Win32/Yaha.E worm']
+[ESET] INFO - Config written from index 155 to 156
+[ESET] INFO - ['Win32/Bagle.B worm']
+[ESET] INFO - Config written from index 156 to 157
+[ESET] INFO - ['Win32/Rirc.A worm']
+[ESET] INFO - Config written from index 157 to 158
+[ESET] INFO - ['Win32/SheepGoat.10.A trojan']
+[ESET] INFO - Config written from index 158 to 159
+[ESET] INFO - ['Win32/Agent.YRR trojan']
+[ESET] INFO - Config written from index 159 to 160
+[ESET] INFO - ['Win32/Bajar.B worm']
+[ESET] INFO - Config written from index 160 to 161
+[ESET] INFO - ['NewHeur_VB_StartPage.3 trojan']
+[ESET] INFO - Config written from index 161 to 162
+[ESET] INFO - ['Win32/Ronater.A trojan']
+[ESET] INFO - Config written from index 162 to 163
+[ESET] INFO - ['Win32/Maax.A worm']
+[ESET] INFO - Config written from index 163 to 164
+[ESET] INFO - ['Win32/Exploit.DCom.O trojan']
+[ESET] INFO - Config written from index 164 to 165
+[ESET] INFO - ['Win32/Sober.E worm']
+[ESET] INFO - Config written from index 165 to 166
+[ESET] INFO - ['Win32/Mydoom.P worm']
+[ESET] INFO - Config written from index 166 to 167
+[ESET] INFO - ['Win32/HackTool.Auha.10 trojan']
+[ESET] INFO - Config written from index 167 to 168
+[ESET] INFO - ['Win32/Alcop.V worm']
+[ESET] INFO - Config written from index 168 to 169
+[ESET] INFO - ['Win32/Duload.B worm']
+[ESET] INFO - Config written from index 169 to 170
+[ESET] INFO - ['Win32/Nethief.51 trojan']
+[ESET] INFO - Config written from index 170 to 171
+[ESET] INFO - ['Win32/VB.PXB trojan']
+[ESET] INFO - Config written from index 171 to 172
+[ESET] INFO - ['Win32/Harex.A worm']
+[ESET] INFO - Config written from index 172 to 173
+[ESET] INFO - ['Win32/Sddrop.E worm']
+[ESET] INFO - Config written from index 173 to 174
+[ESET] INFO - ['Win32/Loony.E trojan']
+[ESET] INFO - Config written from index 174 to 175
+[ESET] INFO - ['Win32/Delf.E worm']
+[ESET] INFO - Config written from index 175 to 176
+[ESET] INFO - ['Win32/Bagle.K worm']
+[ESET] INFO - Config written from index 176 to 177
+[ESET] INFO - ['Win32/Zombam.B trojan']
+[ESET] INFO - Config written from index 177 to 178
+[ESET] INFO - ['I-Worm.Energy.B worm']
+[ESET] INFO - Config written from index 178 to 179
+[ESET] INFO - ['Win32/Mimail.X worm']
+[ESET] INFO - Config written from index 179 to 180
+[ESET] INFO - ['NewHeur_VB_Trojan.42 trojan']
+[ESET] INFO - Config written from index 180 to 181
+[ESET] INFO - ['Win32/WinShell.10 trojan']
+[ESET] INFO - Config written from index 181 to 182
+[ESET] INFO - ['Win32/EggDrop.130 trojan']
+[ESET] INFO - Config written from index 182 to 183
+[ESET] INFO - ['Win32/Cult.C worm']
+[ESET] INFO - Config written from index 183 to 184
+[ESET] INFO - ['Win32/TrojanProxy.Wopla.NAQ trojan']
+[ESET] INFO - Config written from index 184 to 185
+[ESET] INFO - ['Win32/Netsky.N worm']
+[ESET] INFO - Config written from index 185 to 186
+[ESET] INFO - ['Win32/Nachi.E worm']
+[ESET] INFO - Config written from index 186 to 187
+[ESET] INFO - ['Win32/Sbot trojan']
+[ESET] INFO - Config written from index 187 to 188
+[ESET] INFO - ['Win32/Soltern.NAA worm']
+[ESET] INFO - Config written from index 188 to 189
+[ESET] INFO - ['Win32/Bagle.AJ worm']
+[ESET] INFO - Config written from index 189 to 190
+[ESET] INFO - ['Win32/Mimail.P worm']
+[ESET] INFO - Config written from index 190 to 191
+[ESET] INFO - ['Generik.YZDPLP trojan']
+[ESET] INFO - Config written from index 191 to 192
+[ESET] INFO - ['Win32/Hobbit.G worm']
+[ESET] INFO - Config written from index 192 to 193
+[ESET] INFO - ['Win32/Mimail.R worm']
+[ESET] INFO - Config written from index 193 to 194
+[ESET] INFO - ['Win32/Slackbot.B trojan']
+[ESET] INFO - Config written from index 194 to 195
+[ESET] INFO - ['Win32/Mua.E worm']
+[ESET] INFO - Config written from index 195 to 196
+[ESET] INFO - ['Win32/TrojanDownloader.VB.OYN trojan']
+[ESET] INFO - Config written from index 196 to 197
+[ESET] INFO - ['Win32/MScr.P worm']
+[ESET] INFO - Config written from index 197 to 198
+[ESET] INFO - ['Win32/Orion trojan']
+[ESET] INFO - Config written from index 198 to 199
+[ESET] INFO - ['Win32/Flooder.MailSpam.Hirs.AA trojan']
+[ESET] INFO - Config written from index 199 to 200
+[ESET] INFO - ['Win32/Exploit.VB.F trojan']
+[ESET] INFO - Config written from index 200 to 201
+[ESET] INFO - ['Win32/Dumador.AI trojan']
+[ESET] INFO - Config written from index 201 to 202
+[ESET] INFO - ['Win32/NetDemon.10.Server trojan']
+[ESET] INFO - Config written from index 202 to 203
+[ESET] INFO - ['Win32/Symop.B worm']
+[ESET] INFO - Config written from index 203 to 204
+[ESET] INFO - ['Win32/Myparty.B worm']
+[ESET] INFO - Config written from index 204 to 205
+[ESET] INFO - ['Win32/Benatic.D worm']
+[ESET] INFO - Config written from index 205 to 206
+[ESET] INFO - ['Win32/Massaker.11.A trojan']
+[ESET] INFO - Config written from index 206 to 207
+[ESET] INFO - ['Win32/Xanax.C worm']
+[ESET] INFO - Config written from index 207 to 208
+[ESET] INFO - ['Win32/Bagle worm']
+[ESET] INFO - Config written from index 208 to 209
+[ESET] INFO - ['Win32/Netsky.P worm']
+[ESET] INFO - Config written from index 209 to 210
+[ESET] INFO - ['Win32/Netsky.Q worm']
+[ESET] INFO - Config written from index 210 to 211
+[ESET] INFO - ['Win32/Janker trojan']
+[ESET] INFO - Config written from index 211 to 212
+[ESET] INFO - ['Win32/Small.NFW trojan']
+[ESET] INFO - Config written from index 212 to 213
+[ESET] INFO - ['NewHeur_VB_Backdoor.14 trojan']
+[ESET] INFO - Config written from index 213 to 214
+[ESET] INFO - ['Win32/Hobbit.01 trojan']
+[ESET] INFO - Config written from index 214 to 215
+[ESET] INFO - ['Win32/Dumaru.A0 worm']
+[ESET] INFO - Config written from index 215 to 216
+[ESET] INFO - ['Win32/Netsky.B worm']
+[ESET] INFO - Config written from index 216 to 217
+[ESET] INFO - ['Win32/Nachi.H worm']
+[ESET] INFO - Config written from index 217 to 218
+[ESET] INFO - ['Win32/Flooder.MailSpam.Hirs.AA trojan']
+[ESET] INFO - Config written from index 218 to 219
+[ESET] INFO - ['Win32/Nachi.L worm']
+[ESET] INFO - Config written from index 219 to 220
+[ESET] INFO - ['Win32/Backzat.V worm']
+[ESET] INFO - Config written from index 220 to 221
+[ESET] INFO - ['Win32/Smokodoor.NAB trojan']
+[ESET] INFO - Config written from index 221 to 222
+[ESET] INFO - ['NewHeur_VB_Trojan.33 trojan']
+[ESET] INFO - Config written from index 222 to 223
+[ESET] INFO - ['Win32/Spear.A worm']
+[ESET] INFO - Config written from index 223 to 224
+[ESET] INFO - ['Win32/Telserver.AA trojan']
+[ESET] INFO - Config written from index 224 to 225
+[ESET] INFO - ['NewHeur_VB_Backdoor.15 trojan']
+[ESET] INFO - Config written from index 225 to 226
+[ESET] INFO - ['Win32/DeltaSource.05 trojan']
+[ESET] INFO - Config written from index 226 to 227
+[ESET] INFO - ['Win32/TCmd.10 trojan']
+[ESET] INFO - Config written from index 227 to 228
+[ESET] INFO - ['Win32/Agent.OME trojan']
+[ESET] INFO - Config written from index 228 to 229
+[ESET] INFO - ['Generik.HQQGPRF trojan']
+[ESET] INFO - Config written from index 229 to 230
+[ESET] INFO - ['IRC/Hellfire.A worm']
+[ESET] INFO - Config written from index 230 to 231
+[ESET] INFO - ['Win32/Mimail.U worm']
+[ESET] INFO - Config written from index 231 to 232
+[ESET] INFO - ['Win32/Agent.OKS trojan']
+[ESET] INFO - Config written from index 232 to 233
+[ESET] INFO - ['Win32/Titidoor.NAA trojan']
+[ESET] INFO - Config written from index 233 to 234
+[ESET] INFO - ['Win32/Telserver.AA trojan']
+[ESET] INFO - Config written from index 234 to 235
+[ESET] INFO - ['Win32/Exploit.MRC.A trojan']
+[ESET] INFO - Config written from index 235 to 236
+[ESET] INFO - ['Win32/Revocer.A worm']
+[ESET] INFO - Config written from index 236 to 237
+[ESET] INFO - ['Win32/Mydoom.O worm']
+[ESET] INFO - Config written from index 237 to 238
+[ESET] INFO - ['Win32/Jeemp.E trojan']
+[ESET] INFO - Config written from index 238 to 239
+[ESET] INFO - ['Win32/Netsky.X worm']
+[ESET] INFO - Config written from index 239 to 240
+[ESET] INFO - ['Win32/Frethem.E worm']
+[ESET] INFO - Config written from index 240 to 241
+[ESET] INFO - ['Win32/Divux.D trojan']
+[ESET] INFO - Config written from index 241 to 242
+[ESET] INFO - ['Win32/IRCBot.AYH trojan']
+[ESET] INFO - Config written from index 242 to 243
+[ESET] INFO - ['Win32/Bagle.J worm']
+[ESET] INFO - Config written from index 243 to 244
+[ESET] INFO - ['Win32/Goweh.E trojan']
+[ESET] INFO - Config written from index 244 to 245
+[ESET] INFO - ['Win32/MScr.C worm']
+[ESET] INFO - Config written from index 245 to 246
+[ESET] INFO - ['Win32/Singu.J trojan']
+[ESET] INFO - Config written from index 246 to 247
+[ESET] INFO - ['Win32/Mydoom.H worm']
+[ESET] INFO - Config written from index 247 to 248
+[ESET] INFO - ['Win32/Prorat.12 trojan']
+[ESET] INFO - Config written from index 248 to 249
+[ESET] INFO - ['Win32/SpyBot.IS worm']
+[ESET] INFO - Config written from index 249 to 250
+[ESET] INFO - ['Win32/Mydoom.T worm']
+[ESET] INFO - Config written from index 250 to 251
+[ESET] INFO - ['Win32/OutSid.C worm']
+[ESET] INFO - Config written from index 251 to 252
+[ESET] INFO - ['Win32/VB.UJ trojan']
+[ESET] INFO - Config written from index 252 to 253
+[ESET] INFO - ['Win32/IRCBot.OV trojan']
+[ESET] INFO - Config written from index 253 to 254
+[ESET] INFO - ['Win32/Nuker.RPCNuke.NAB trojan']
+[ESET] INFO - Config written from index 254 to 255
+[ESET] INFO - ['Win32/Flooder.Quake.A trojan']
+[ESET] INFO - Config written from index 255 to 256
+[ESET] INFO - ['Win32/Myparty.B worm']

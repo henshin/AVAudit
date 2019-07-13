@@ -1,0 +1,3531 @@
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.S@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ego
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Delf.CN
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nivalid.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief.5_3
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Netsky.AC@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netdevil.1_4
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/Btg.0_4
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Nemesys
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Fog.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:IRC/BotSinLey
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Subseven.E
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nodoom.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.S@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Cult.D@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/LanKiller.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Guptachar.2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ptakks.R1
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Azag.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Mabra.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mumu.A
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Opdos
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nirvana.2_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/DM.1_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Grobodor.N
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Lanxue.2_00
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Iroffer.H
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Small.BS
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Delf.Q
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mylife.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rirc.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Xoox
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ruledor.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Anomail.1_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/Hybris
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/3DStars.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/NMB
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/BadAss@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Syrius
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/JustJoke.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Sobig.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Click.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Notpa.2_03
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Neurotic.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Prosiak.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Fonob
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Linux/Qpop.3_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Fluxay.3116
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Dreamirc.G
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Fosen
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Hotlix.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/IZEBurn
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Dimbus.1_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Igloo.U
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Nukers
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Evilsock.0_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Gatecrasher.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/SynSpy.A
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/GF.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/InCommander.17.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Anset@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/VB.J
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/Sbvc
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/DSNX.0_4
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sdbot.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/DTCold
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Vlab.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sdbot.gen
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:IRC/XFl
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/UltimateRat.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Opaserv.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/SMSXender
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/FA
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Wozer.E@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/1_09
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Dropegg.L
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Maax
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Delf.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/WinNuke4
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/LittleWitch.5_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/PCX
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Utrick.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Backterra.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/NukeMSN
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/GwGirl.2_5
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Mint
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/ShellCode.M
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Davip
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/LorNuke
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sinf
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Shiver
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/FatCon.2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/G_Door.L
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netraider
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Tafix.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Toledorz.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/BWG.2_00
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Tfd.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/GwGirl.2_12
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Baczback.F
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/XConsole
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Quake.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rux.6_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Pof
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/WinSatan.374784
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Sober.I@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Optix.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sensive.3_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rocket
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Wozer.F@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netspy.H
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/RC8
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Spirit
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/UDP_Ipt
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Erah.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Taripox.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Roxrat.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/EmailBomb.1_3
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/Pelotas
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win16/BattlePong
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Crazyworld
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Serot.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win16/WinSmurf
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Gosocks
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Singu.E
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Energy.B@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Gipla
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zemac.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/SubSari.E
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/SBD.2_0
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/IPMail.2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rexx
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/ShellPinger
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:SH/WinGateCrash
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Muska.1_5
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win16/Avalanche.3_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bugbear.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/GichtyChatFlood
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win16/Kabal
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Enviar.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Lohack.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Filebomber
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Zaffi
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.G
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Zokrim.C@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Sabotage.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/VB.AAW
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ricta.1_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sepro.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Klez.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Test
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Kitro.C@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Mabra.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Yoyks.F
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/LittleBusters
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Fantador.A
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/BWG.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Primat.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sonick
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief.3_5
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/Setman.2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Pinger
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mydoom.BO@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Warin
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : TrojanSpy:Win32/Logsnif.gen
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Moonpie.2_4
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alrain
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Redkod.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Delf.H
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Ra.3_04
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/IISPrinterOverflow.E
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Leguardi
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/VB.DT
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Nuker:Win16/Nukem
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Shaggy
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Latinus
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/HKit
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/IISPrinterOverflow.F
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/WingateKill
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Infiltrat
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Yaha.N@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/ICQCrash
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Quazex.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zomby.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Small.R
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Buffer.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Mosucker.3_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/UltimateRat.2_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Cregam
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nimoo
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sdbot.gen
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DDoS:Win32/Octopus
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/G_Door.G
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Cryptonic
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Lustorm.C@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/FraggleRock.1_43
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Grob.6_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Tiger
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : VirTool:Win32/Optix.N
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Litmus.1_08
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Optix.G
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Frapes
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Fintas.D@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/SpyDerWeb
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/BWG.4_04
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Anonymail.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Smvss.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/RpcDcom.gen!MS03-039
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Frenzy_2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/RServer
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Orter
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Db
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief.5_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zalivator
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Terror
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Iroffer.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Griffin
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Spybot.F
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gillich.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Neurotic.1_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netspy.205824
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Helios.1_6
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roron.AK@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Smeaglo.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : TrojanProxy:Win32/Jubon.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/AZ
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Freak
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nefutur
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Subroot.1_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Without.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief_XP.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/VB.EZ
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Khaos
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/IPVCK
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Jacktron.2_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Hotmail.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Phoenix.1_46
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Plesa.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/Dcom.F
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Sakuz
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Intruzzo.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Anap.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/TheRipper.1_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/OVCT
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zomby.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Myba.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Sequel.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/SpySender.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Gift.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Awvck
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ping.D
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/OutSid.D@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Sowsat.H@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Singu.J
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netspy.D
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ripper
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win16/Ewk
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/Redhack.3_0
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win16/Yoyks.E@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/DMX.1_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/KagraTool
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Moerna.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Longvi.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Dmb.0_1
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Pengine.A
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zombam.N
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Xerom.B
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netbus.VB
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Antilam.U
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Fbound.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief.1_9
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netbus.1_60
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/TheRipper.1_2
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zerg.1_5
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Infector.E
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/BBE
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Kitro.G@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zaratustra
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Netsky.W@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nachi.G
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nethief_XP.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Nemesis
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win16/Fakeformat.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Frethem.G@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/LittleBuster.2_05
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Fatcat.A@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/HVLRat!IP_Stealer
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nihilit.O@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/QuickFyre
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Fluxay.0_3
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Kabak.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Dosh.A
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:BAT/BWG.2_09
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Singu
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/RC
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Trilima.I@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Shadowphyre.C
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Stopin.C@mm
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Onalf
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Mosuck.B
+Resources               : 1 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/CGI_Notify
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : TrojanDropper:Win32/Assasin
+Resources               : 2 total
+    file                : C:\Users\caive\source\repos\dropper\Release\dropper.exe->(VFS:test.exe)
+    containerfile       : C:\Users\caive\source\repos\dropper\Release\dropper.exe
+-------------------------------------------------------------------------------
+a.bat 
+addsec.exe.stackdump 
+add_rsrc.exe 
+add_samples.bat 
+add_samples.py 
+build_database.py 
+defender_dump.txt 
+raw.txt 
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\source\repos\dropper\Release\dropper.exe found no threats.

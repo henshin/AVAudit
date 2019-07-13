@@ -1,0 +1,1285 @@
+Scan starting...
+Scan finished.
+Scanning C:\Users\caive\samples\defender\smallest_samples found 256 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/Apulia
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_YdNbQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:VBS/Prophecy.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UJFyD.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:Win32/Compux.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XD2Hy.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:Win32/Veva
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9VaXw.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rorex.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_93hPp.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Ska.A@m
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_PdMMB.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/MRC
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_STxf5.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bare.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_w5aBK.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:IRC/DS.5392
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Hyo4o.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Cult.D@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_0C2rl.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/AntiRAR
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_egWYR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Energy.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_LpUDy.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Lucky.C
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_HZYEW.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Clau.2513
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_959cA.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.N
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_WBVIc.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Azag.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_0CXrN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Elspy.9619
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_PILdT.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DDoS:Win32/UDPFlood
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_LVllP.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Postic
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_swg4Z.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.M@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_EgzeM.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Small.CZ
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_I4SLO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Gillich.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9C2oQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Small.V
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_enesk.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gizer.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_M3wzb.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Small.BS
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_0hciq.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bumdoc.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_PkB2s.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Subseven!patcher
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_T1PfN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kazimas.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_WimLX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Rat.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_pkQmU.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/ClickIt.E
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_WkU0A.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Dovan.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ESXyq.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nihilit.I@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9E5MK.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Utrick.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_1BBaQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Duke
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_WOWy4.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.I@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_T2Uos.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Kuang
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_mcZaf.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.H@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9jtUX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Kyrdor.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_p3CZK.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/VCS
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_p10fT.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/MTX.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_X0EVd.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bunny.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_MnbUt.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Recub
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9KqXm.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:IRC/Taxifolia
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_t9Ure.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netraider
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_1fs8X.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gillich.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_iD5Ra.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bormex.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_mNlTz.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Skud.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_pLlx2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Gillich.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_PM158.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alcaul.R@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_IFGiL.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/SuperLamer.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_t9ysE.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Helios.12.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_9qTWP.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Tafix.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_1G0pf.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/Pircher.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_MoZ5f.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Smokodoor
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_x0oJT.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Radix
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_EZlA1.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/RSeries
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Pnz1A.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Trilima.E@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ifRj3.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nodoom.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_0bCeK.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Levelone.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_TaEFL.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.J
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_f71ax.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Repah.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_MpRZQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Napsin.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_A45Mp.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/ClickIt.F
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_pp6rf.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:IRC/Buffy.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_X2jy2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mydoom.A@mm.dll
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_tCmbp.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Pof
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_1KX5w.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Digitul
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_pQeSN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/MTX.B@m
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_FdchE.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Evilgoat.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_aGlvS.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/AutoHack
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_MSjUC.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Dropegg.1_36
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_teRPR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/VB.M
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_PsOAV.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Shutall
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_AICup.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Elspy.2278
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_lpIvV.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/Upadmin.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_iilfX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Filebomber
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_2fUvd.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : PWS:Win32/Kalm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_xd58w.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_tH6Ny.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Melare.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Hswx6.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Rex.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_myydR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Genky
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Pvn5T.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Prorat.1_2
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_alNnQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Bagle.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XFHEi.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Miar
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_n3cDd.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.G@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Asjvq.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Energy.G@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_IJgXM.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:IRC/Kaiten.C
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_TnJxS.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:Win32/Uniskit
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_FNVF5.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Levelone.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Q3qJJ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.G
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_2G7p8.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/DNF
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_xHr6y.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.M
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_tttnn.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Azaco_8192.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_q6DTO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Ricta.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_2hT0U.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Trilima.F@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XJl86.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Cult.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_IWtW8.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Heidex.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_AXaJ2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Jolt2
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_fRJXI.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Yoyks.F
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_2Lr9u.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Libdoor
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_qbl0x.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Excuse.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nCNmI.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Opop
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_twR29.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Small.R
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_32uOc.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.Q@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_QLARv.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Doomjuice.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_J0fbR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Thething.B5
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_NeiGF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Spammer:Win32/Popcorn
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ftWbO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gain.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_B7nOm.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Smvss.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_3NdPF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Demspy
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XmjN9.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/Dcom.Y
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_tx3FV.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Dumaru.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nHBvu.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Insane.plugin
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_fuBBe.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Apulia.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_J2MLX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Jman.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XQElQ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Flib.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_qNGK0.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Expiorer
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_b87J2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gillich.C
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_3tPqq.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Docirc
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_qPsX4.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.F
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_beocS.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gizer.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Tz4gI.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Skudex.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_jajYd.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/DonaldDick.1_52
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nhdOl.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Dragon.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_fWUcb.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/QQnukeall
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_xrm06.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Wisell.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_R8Mty.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Awvck
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_4hY9i.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/PTG
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nJPWe.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Toal.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_u9huU.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/CrobFTP
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_bIVZd.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win16/Pounder
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_R8zqO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_NMtN9.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Pops.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_FZRj2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Achar.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XttNo.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.J@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_jBADL.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Burl.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_u9WiF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Hanuman.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_bmdWt.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.O
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_rlCA0.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Zaratustra
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_4XAtD.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Helibot.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_JC66s.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.F@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_5SPbN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Benatic.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Rnn15.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/IcmpCmd.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_NyNN8.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Sander.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Xu4SK.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : TrojanDownloader:Win32/Dix
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_g15L4.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/VB.UJ
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UcgHN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.M@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_BQXIP.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Troodon.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XxwKR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Hobbit
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_BSH95.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Tafix.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_s4LfI.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/ZZ
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ugluX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gizer.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_5uSX6.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/FreeTrip.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_oru83.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Secet.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_5x4M6.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Sahara
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Btf1P.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Qdel.2_18
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_FHDCP.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/MTX.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_S8SAH.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Iredor
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_XY1PH.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/Auha.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_JgHlk.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.L
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_5zdRg.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Remscan
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_JnOm4.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Die.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_oqpvr.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Voyager.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_sBuVJ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Redesi.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ceUlO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/GreenCode.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_xZGJ7.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Rous.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_jxqz6.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Lithium.1_02
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_OPjdl.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Matrim
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_GcjZA.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/Fumn
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UJIYk.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mylife.D@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Sc3UC.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Angryping
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_y5VFx.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Taxifolia.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_6cN95.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Skudex.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_GhJHv.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Delf.RF
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_JYU06.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Lana.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_clqVs.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Duksten.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_YbN23.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:DOS/ABCD.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_6plvr.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Piper
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_uQe9Q.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mylife.F@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Sc8Cg.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.C
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ebg11.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/HVLRat
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UqzLO.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Azaco_8192.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_gJA97.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Repah.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_6xV91.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Dragon.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_CULM3.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/MTX.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_KCIZY.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Tusem.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_gJFX1.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Portless.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UUT46.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mylife.M@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_cvPeB.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Virugen
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_scgNL.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Burnox
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_yNg9z.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Netdex
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ke7oN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Wisell
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_UwOsF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alcaul.V@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_glFSj.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Rbtg
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_SeUvH.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.I
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Kioft.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Pops.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ypoLa.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Duload.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_dfmJz.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Janker
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_sgPWk.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Pnguin.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_VcCBy.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Small.BF
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_kmupU.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Aliz.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_oN8Ke.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Benatic.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_YTeZ2.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Unis.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_vKLbU.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Jman.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_DHUEl.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_kQrKF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Shabo.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_SIcHa.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/Vckit.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Gq4AW.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_YtsXZ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Langex.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_7AdEi.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Exploit:Win32/Vecnoit
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_dhznH.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Flib
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_vMlSk.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Constructor:DOS/EasyGen.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_sNyaL.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.H@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_kWjNl.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Crow
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_dT9TF.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Toviz.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_vnC55.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Slackbot.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_kxnat.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Silly.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ssDcN.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Kondrik.K
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_gsDlj.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Benatic.C@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_7QbXB.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Dkangel.2_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_dzODE.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Tiny
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_vVBrD.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Symop.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_l77mB.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.O@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_7ZK98.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Rous.C
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_zynJH.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Tiny.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_GtzjB.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DDoS:Win32/Soldier
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_VvyuY.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Azirk.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_yucS0.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Rous.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_E7Oz0.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Mimail.E@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_L8Byo.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/SilverFTP.1_0
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_80rgE.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Solvina.A@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nZ3xg.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Spool
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_8bt8r.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Druagz.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ZgaER.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Notpa
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_vWn5j.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Trojan:Win32/Septer
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_GVtqP.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Litmus.Y
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_L9nfX.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Voyager.B
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_nziod.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Evilsock
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_LgHME.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Lucky.D
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_8ydVZ.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Roram.H
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_O8wiR.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:DOS/Click_It.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_H7NIh.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Backdoor:Win32/Silly.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_LMksE.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DoS:Win32/Hallenger
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_HH27v.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : DDoS:Win32/LifeWire
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ogPhU.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : HackTool:Win32/Upadmin.1_5
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_ZObqT.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Alco.R@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_Ohsl1.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Fever.B@mm
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_oj48A.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Nachi.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_zwQtA.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Worm:Win32/Gnuman.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_P6hfi.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/MewII
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_66xvf.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/Stupen.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_gBxbW.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win16/Crazymessage.A
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_G8700.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/Blondie
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_eTzDu.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/Foont
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_IBCXg.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win16/Aloap
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_gn4Hf.vir
+-------------------------------------------------------------------------------
+----------------------------- Threat information ------------------------------
+Threat                  : Joke:Win32/IconScroll
+Resources               : 1 total
+    file                : C:\Users\caive\samples\defender\smallest_samples\sample_hJIZ4.vir
+-------------------------------------------------------------------------------
