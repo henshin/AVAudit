@@ -1,7 +1,7 @@
 # AVAudit
 A framework for preforming black-box analysis of antivirus emulators
 
-[AVAudit blog post](https://medium.com/@calebcheng_87413/avaudit-fingerprinting-av-emulators-part-1-introduction-7817b333e25c)
+[**Read about the story behind AVAudit**](https://medium.com/@calebcheng_87413/avaudit-fingerprinting-av-emulators-part-1-introduction-7817b333e25c)
 
 Inspired by [AVLeak by Alexei Bulazel](https://www.usenix.org/conference/woot16/workshop-program/presentation/blackthorne)
 
