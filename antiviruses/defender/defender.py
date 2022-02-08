@@ -26,7 +26,7 @@ class Defender:
 		self.utils = "{}\\utils\\".format(self.currentDir)
 
 		self.avExe = r"C:\PROGRA~1\WINDOW~1\MpCmdRun.exe"
-		self.avArgs = ["-Scan ", "-DisableRemediation ", '-ScanType ','3 ','-File ',self.utils+'stub.exe']
+		self.avArgs = ["-Scan", "-DisableRemediation", "-ScanType","3","-File",self.utils+'stub.exe']
 
 		self.logger.info("Initialised the Windows Defender tester")
 		self.logger.info("Defender: "+self.avExe)
